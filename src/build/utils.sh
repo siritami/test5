@@ -305,6 +305,11 @@ _cfb_get() {
 	cfb_path=$(echo "$url" | sed -E 's#https?://[^/]+(/.*)#\1#')
 	[[ -z "$cfb_path" || "$cfb_path" == "$url" ]] && cfb_path="/"
 
+	yellow_log "[*] CFB url: $url"
+	yellow_log "[*] CFB host: $cfb_host"
+	yellow_log "[*] CFB path: $cfb_path"
+	yellow_log "[*] CFB target: http://localhost:8000$cfb_path"
+
 	for attempt in $(seq 1 $max_retries); do
 		local response_file
 		rm -f /tmp/cfb_response_headers.txt
@@ -323,12 +328,20 @@ _cfb_get() {
 				local cfb_ua
 				cfb_ua=$(grep -i '^x-cf-bypasser-user-agent:' /tmp/cfb_response_headers.txt 2>/dev/null | cut -d':' -f2- | xargs)
 				[[ -n "$cfb_ua" ]] && user_agent="$cfb_ua"
+				green_log "[+] CFB success (attempt $attempt/$max_retries): $url"
+				green_log "[+] CFB html length: ${#html}"
+				green_log "[+] CFB html preview: $(echo "$html" | head -c 200)"
+				green_log "[+] CFB cookies: ${FS_COOKIES:-(empty)}"
+				green_log "[+] CFB user_agent: ${user_agent:-(empty)}"
 				rm -f "$response_file" /tmp/cfb_response_headers.txt
 				return 0
+			else
+				yellow_log "[!] CFB attempt $attempt/$max_retries: HTTP 200 but empty html: $url"
 			fi
+		else
+			yellow_log "[!] CFB attempt $attempt/$max_retries: HTTP $http_code: $url"
 		fi
 	done
-	red_log "[-] CloudflareBypassForScraping failed after $max_retries attempts: $url"
 	return 1
 }
 
