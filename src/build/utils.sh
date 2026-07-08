@@ -338,9 +338,14 @@ _cfb_get() {
 	return 1
 }
 
+_CFB_FAILED=0
+
 _cf_get() {
-	_cfb_get "$@" && return 0
-	yellow_log "[!] CFB failed, falling back to FlareSolverr"
+	if [[ "$_CFB_FAILED" -eq 0 ]]; then
+		_cfb_get "$@" && return 0
+		yellow_log "[!] CFB failed, disabling for rest of session"
+		_CFB_FAILED=1
+	fi
 	_fs_get "$@"
 }
 
