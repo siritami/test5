@@ -298,17 +298,8 @@ _cfb_get() {
 	local max_retries=5
 	local attempt
 
-	local cfb_host
-	cfb_host=$(echo "$url" | sed -E 's#https?://([^/]+)/?.*#\1#')
-
-	local cfb_path
-	cfb_path=$(echo "$url" | sed -E 's#https?://[^/]+(/.*)#\1#')
-	[[ -z "$cfb_path" || "$cfb_path" == "$url" ]] && cfb_path="/"
-
 	yellow_log "[*] CFB url: $url"
-	yellow_log "[*] CFB host: $cfb_host"
-	yellow_log "[*] CFB path: $cfb_path"
-	yellow_log "[*] CFB target: http://localhost:8000$cfb_path"
+	yellow_log "[*] CFB target: http://localhost:8000/html?url=$url"
 
 	for attempt in $(seq 1 $max_retries); do
 		local response_file
@@ -317,9 +308,8 @@ _cfb_get() {
 		local http_code
 		http_code=$(curl -s -o "$response_file" -w '%{http_code}' \
 			-D /tmp/cfb_response_headers.txt \
-			-H "x-hostname: $cfb_host" \
 			--max-time 120 \
-			"http://localhost:8000$cfb_path")
+			"http://localhost:8000/html?url=$url")
 		if [[ "$http_code" == "200" ]]; then
 			html=$(cat "$response_file")
 			if [[ -n "$html" ]]; then
