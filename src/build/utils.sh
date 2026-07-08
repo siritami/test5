@@ -270,7 +270,7 @@ detect_version() {
 
 _fs_get() {
 	local url=$1
-	local max_retries=5
+	local max_retries=3
 	local attempt
 	for attempt in $(seq 1 $max_retries); do
 		local response
@@ -295,7 +295,7 @@ _fs_get() {
 
 _cfb_get() {
 	local url=$1
-	local max_retries=5
+	local max_retries=3
 	local attempt
 
 	yellow_log "[*] CFB url: $url"
