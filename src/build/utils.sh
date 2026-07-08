@@ -331,6 +331,8 @@ _cfb_get() {
 			fi
 		else
 			yellow_log "[!] CFB attempt $attempt/$max_retries: HTTP $http_code: $url"
+			yellow_log "[!] CFB response body: $(cat "$response_file" | head -c 500)"
+			yellow_log "[!] CFB response headers: $(cat /tmp/cfb_response_headers.txt 2>/dev/null)"
 		fi
 	done
 	return 1
@@ -338,10 +340,10 @@ _cfb_get() {
 
 _cf_get() {
 	if [[ "$CF_BYPASS_SOLVER" == "cloudflarebypassforscraping" ]]; then
-		_cfb_get "$@" && return 0
-		yellow_log "[!] CloudflareBypassForScraping failed, falling back to FlareSolverr"
+		_cfb_get "$@"
+	else
+		_fs_get "$@"
 	fi
-	_fs_get "$@"
 }
 
 get_apk() {
