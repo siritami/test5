@@ -338,11 +338,43 @@ _cfb_get() {
 	return 1
 }
 
+# Smart page fetcher: try direct curl first, use CFB only when Cloudflare blocks
 _cf_get() {
-	if [[ "$CF_BYPASS_SOLVER" == "cloudflarebypassforscraping" ]]; then
-		_cfb_get "$@"
+	local url=$1
+
+	# Step 1: Try direct fetch with browser-like UA
+	yellow_log "[*] Direct fetch attempt: $url"
+	local direct_file
+	direct_file=$(mktemp)
+	local direct_code
+	direct_code=$(curl -s -o "$direct_file" -w '%{http_code}' \
+		-A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" \
+		--max-time 30 \
+		"$url" 2>/dev/null)
+
+	if [[ "$direct_code" == "200" ]]; then
+		local direct_html
+		direct_html=$(cat "$direct_file")
+		# Check if it's a real page (not a Cloudflare challenge)
+		if [[ -n "$direct_html" ]] && ! echo "$direct_html" | grep -qiE 'cf_chl_|Just a moment|Checking your browser|challenge-platform|cf-browser-verification'; then
+			green_log "[+] Direct fetch success (no Cloudflare): $url"
+			green_log "[+] Direct html length: ${#direct_html}"
+			html="$direct_html"
+			rm -f "$direct_file"
+			return 0
+		else
+			yellow_log "[!] Direct fetch got Cloudflare challenge, will use CFB"
+		fi
 	else
-		_fs_get "$@"
+		yellow_log "[!] Direct fetch failed (HTTP $direct_code), will use CFB"
+	fi
+	rm -f "$direct_file"
+
+	# Step 2: Use CFB to bypass Cloudflare
+	if [[ "$CF_BYPASS_SOLVER" == "cloudflarebypassforscraping" ]]; then
+		_cfb_get "$url"
+	else
+		_fs_get "$url"
 	fi
 }
 
