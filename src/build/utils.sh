@@ -334,10 +334,10 @@ _cfb_get() {
 
 _cf_get() {
 	if [[ "$CF_BYPASS_SOLVER" == "cloudflarebypassforscraping" ]]; then
-		_cfb_get "$@"
-	else
-		_fs_get "$@"
+		_cfb_get "$@" && return 0
+		yellow_log "[!] CloudflareBypassForScraping failed, falling back to FlareSolverr"
 	fi
+	_fs_get "$@"
 }
 
 get_apk() {
