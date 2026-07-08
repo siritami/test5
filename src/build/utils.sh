@@ -270,7 +270,7 @@ detect_version() {
 
 _fs_get() {
 	local url=$1
-	local max_retries=5
+	local max_retries=3
 	local attempt
 	for attempt in $(seq 1 $max_retries); do
 		local response
@@ -326,15 +326,66 @@ _cfb_get() {
 	return 1
 }
 
-_FFS_FAILED=0
+_CF_SOLVER=""
 
 _cf_get() {
-	if [[ "$_FFS_FAILED" -eq 0 ]]; then
-		_fs_get "$@" && return 0
-		yellow_log "[!] FlareSolverr failed, falling back to CFB"
-		_FFS_FAILED=1
+	local url=$1
+
+	# First call: run both FFS and CFB in parallel, pick the winner
+	if [[ -z "$_CF_SOLVER" ]]; then
+		yellow_log "[*] Dual mode: testing FlareSolverr + CFB in parallel..."
+
+		# FFS subshell
+		(
+			local html="" FS_COOKIES="" user_agent=""
+			_fs_get "$url" > /dev/null 2>&1
+			echo "$html" > /tmp/cf_dual_html_fs.txt
+			echo "$FS_COOKIES" > /tmp/cf_dual_cookies_fs.txt
+			echo "$user_agent" > /tmp/cf_dual_ua_fs.txt
+			[[ -n "$html" ]] && touch /tmp/cf_dual_fs_ok
+		) &
+
+		# CFB subshell
+		(
+			local html="" FS_COOKIES="" user_agent=""
+			_cfb_get "$url" > /dev/null 2>&1
+			echo "$html" > /tmp/cf_dual_html_cfb.txt
+			echo "$FS_COOKIES" > /tmp/cf_dual_cookies_cfb.txt
+			echo "$user_agent" > /tmp/cf_dual_ua_cfb.txt
+			[[ -n "$html" ]] && touch /tmp/cf_dual_cfb_ok
+		) &
+
+		wait
+
+		# Pick winner: prefer FFS if both succeeded (faster), else whichever worked
+		if [[ -f /tmp/cf_dual_fs_ok ]]; then
+			_CF_SOLVER="fs"
+			yellow_log "[*] Winner: FlareSolverr"
+			html=$(cat /tmp/cf_dual_html_fs.txt)
+			FS_COOKIES=$(cat /tmp/cf_dual_cookies_fs.txt)
+			user_agent=$(cat /tmp/cf_dual_ua_fs.txt)
+			export FS_COOKIES
+		elif [[ -f /tmp/cf_dual_cfb_ok ]]; then
+			_CF_SOLVER="cfb"
+			yellow_log "[*] Winner: CFB"
+			html=$(cat /tmp/cf_dual_html_cfb.txt)
+			FS_COOKIES=$(cat /tmp/cf_dual_cookies_cfb.txt)
+			user_agent=$(cat /tmp/cf_dual_ua_cfb.txt)
+			export FS_COOKIES
+		else
+			red_log "[-] Both FlareSolverr and CFB failed"
+			rm -f /tmp/cf_dual_*
+			return 1
+		fi
+		rm -f /tmp/cf_dual_*
+		return 0
 	fi
-	_cfb_get "$@"
+
+	# Subsequent calls: use the winning solver directly
+	case "$_CF_SOLVER" in
+		fs)  _fs_get "$url" ;;
+		cfb) _cfb_get "$url" ;;
+	esac
 }
 
 get_apk() {
