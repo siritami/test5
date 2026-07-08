@@ -270,7 +270,7 @@ detect_version() {
 
 _fs_get() {
 	local url=$1
-	local max_retries=3
+	local max_retries=5
 	local attempt
 	for attempt in $(seq 1 $max_retries); do
 		local response
@@ -298,9 +298,6 @@ _cfb_get() {
 	local max_retries=3
 	local attempt
 
-	yellow_log "[*] CFB url: $url"
-	yellow_log "[*] CFB target: http://localhost:8000/html (url encoded)"
-
 	for attempt in $(seq 1 $max_retries); do
 		local response_file
 		rm -f /tmp/cfb_response_headers.txt
@@ -319,34 +316,25 @@ _cfb_get() {
 				local cfb_ua
 				cfb_ua=$(grep -i '^x-cf-bypasser-user-agent:' /tmp/cfb_response_headers.txt 2>/dev/null | cut -d':' -f2- | xargs)
 				[[ -n "$cfb_ua" ]] && user_agent="$cfb_ua"
-				green_log "[+] CFB success (attempt $attempt/$max_retries): $url"
-				green_log "[+] CFB html length: ${#html}"
-				green_log "[+] CFB html preview: $(echo "$html" | head -c 200)"
-				green_log "[+] CFB cookies: ${FS_COOKIES:-(empty)}"
-				green_log "[+] CFB user_agent: ${user_agent:-(empty)}"
 				rm -f "$response_file" /tmp/cfb_response_headers.txt
 				return 0
-			else
-				yellow_log "[!] CFB attempt $attempt/$max_retries: HTTP 200 but empty html: $url"
 			fi
 		else
 			yellow_log "[!] CFB attempt $attempt/$max_retries: HTTP $http_code: $url"
-			yellow_log "[!] CFB response body: $(cat "$response_file" | head -c 500)"
-			yellow_log "[!] CFB response headers: $(cat /tmp/cfb_response_headers.txt 2>/dev/null)"
 		fi
 	done
 	return 1
 }
 
-_CFB_FAILED=0
+_FFS_FAILED=0
 
 _cf_get() {
-	if [[ "$_CFB_FAILED" -eq 0 ]]; then
-		_cfb_get "$@" && return 0
-		yellow_log "[!] CFB failed, disabling for rest of session"
-		_CFB_FAILED=1
+	if [[ "$_FFS_FAILED" -eq 0 ]]; then
+		_fs_get "$@" && return 0
+		yellow_log "[!] FlareSolverr failed, falling back to CFB"
+		_FFS_FAILED=1
 	fi
-	_fs_get "$@"
+	_cfb_get "$@"
 }
 
 get_apk() {
