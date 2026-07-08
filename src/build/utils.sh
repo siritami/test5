@@ -299,7 +299,7 @@ _cfb_get() {
 	local attempt
 
 	yellow_log "[*] CFB url: $url"
-	yellow_log "[*] CFB target: http://localhost:8000/html?url=$url"
+	yellow_log "[*] CFB target: http://localhost:8000/html (url encoded)"
 
 	for attempt in $(seq 1 $max_retries); do
 		local response_file
@@ -308,8 +308,9 @@ _cfb_get() {
 		local http_code
 		http_code=$(curl -s -o "$response_file" -w '%{http_code}' \
 			-D /tmp/cfb_response_headers.txt \
+			-G --data-urlencode "url=$url" \
 			--max-time 120 \
-			"http://localhost:8000/html?url=$url")
+			"http://localhost:8000/html")
 		if [[ "$http_code" == "200" ]]; then
 			html=$(cat "$response_file")
 			if [[ -n "$html" ]]; then
