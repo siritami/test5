@@ -37,12 +37,12 @@ patch_dl(){
 	lspatch "threads-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 4() {
-	dl_gh "NexAlloy" "gnadgnaoh" "v1.0"
-	dl_gh "NPatch" "7723mod" "latest"
+	dl_gh "siritami" "test5" "all"
+	dl_gh "NPatch" "7723mod" "v1.0.2"
 	patch_dl
 	# Patch Zalo:
 	get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
-	npatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh"
+	npatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 case "$1" in
     1)
