@@ -2,7 +2,7 @@
 # Xposed build
 source ./src/build/utils.sh
 
-NPatch_dl(){
+LSPatch_dl(){
 	dl_gh "LSPatch" "JingMatrix" "latest"
 }
 patch_dl(){
@@ -10,14 +10,14 @@ patch_dl(){
 }
 1() {
 	# Patch Revenge:
-	NPatch_dl
+	LSPatch_dl
 	dl_gh "revenge-xposed" "revenge-mod" "latest"
 	get_apk "com.discord" "discord" "bundle"
 	lspatch "discord" "app-release" "revenge"
 }
 2() {
 	NPatch_dl
-	patch_dl
+	LSPatch_dl
 	# Patch Facebook:
 	version="576.0.0.42.73"
 	get_apk "com.facebook.katana" "facebook-arm64-v8a" "bundle" "arm64-v8a" "120-640dpi" "Android 11+"
@@ -28,7 +28,7 @@ patch_dl(){
 }
 3() {
 	NPatch_dl
-	patch_dl
+	LSPatch_dl
 	# Patch Instagram:
 	get_apk "com.instagram.android" "instagram-arm64-v8a" "bundle" "arm64-v8a" "120-640dpi"  "Android 9.0+"
 	lspatch "instagram-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
@@ -37,11 +37,12 @@ patch_dl(){
 	lspatch "threads-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 4() {
-	NPatch_dl
+	dl_gh "NexAlloy" "gnadgnaoh" "v1.0"
+	dl_gh "NPatch" "7723mod" "latest"
 	patch_dl
 	# Patch Zalo:
 	get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
-	lspatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh"
+	npatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh"
 }
 case "$1" in
     1)
