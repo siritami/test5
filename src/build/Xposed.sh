@@ -38,7 +38,7 @@ patch_dl(){
 }
 4() {
 	dl_gh "siritami" "test5" "all"
-	dl_gh "NPatch" "7723mod" "v1.0.2"
+	dl_gh "NPatch" "7723mod" "v1.0.5"
 	patch_dl
 	# Patch Zalo:
 	get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
