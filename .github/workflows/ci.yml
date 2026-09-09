@@ -49,10 +49,6 @@ jobs:
         id: check-derv
         if: steps.check-gh.outputs.internet_error == '0'
         run: bash src/etc/ci.sh RookieEnough/De-ReVanced latest gg-photos-arm64-v8a-derevanced.apk
-      - name: Check new patch Paresh
-        id: check-paresh
-        if: steps.check-gh.outputs.internet_error == '0'
-        run: bash src/etc/_ci.sh Paresh-Maheshwari/paresh-patches latest telegram-web-version-paresh.apk
       - name: Check new patch hoo-dles
         id: check-hoo-dles
         if: steps.check-gh.outputs.internet_error == '0'
@@ -91,10 +87,9 @@ jobs:
       check_rve_anddea_stable: ${{ steps.check-rve-anddea-stable.outputs.new_patch }}
       check_rve_anddea_beta: ${{ steps.check-rve-anddea-beta.outputs.new_patch }}
       check_twitter_piko_stable: ${{ steps.check-twitter-piko-stable.outputs.new_patch }}
-      check_twitter_piko_beta: ${{ steps.check-twitter-piko-beta.outputs.new_patch }}
+#      check_twitter_piko_beta: ${{ steps.check-twitter-piko-beta.outputs.new_patch }}
       check_twitter_piko_newx: ${{ steps.check-twitter-piko-newx.outputs.new_patch }}
       check_derv: ${{ steps.check-derv.outputs.new_patch }}
-      check_paresh: ${{ steps.check-paresh.outputs.new_patch }}
       check_hoo_dles: ${{ steps.check-hoo-dles.outputs.new_patch }}
       check_bufferk: ${{ steps.check-bufferk.outputs.new_patch }}
       check_arandomhooman: ${{ steps.check-arandomhooman.outputs.new_patch }}
@@ -168,14 +163,6 @@ jobs:
     secrets: inherit
     with:
       org: "DeRevanced"
-  Patch-Paresh:
-    name: Patch Paresh
-    needs: check
-    if: ${{ needs.check.outputs.check_paresh == 1 }}
-    uses: ./.github/workflows/manual-patch.yml
-    secrets: inherit
-    with:
-      org: "Paresh"
   Patch-hoo-dles:
     name: Patch hoo-dles
     needs: check
