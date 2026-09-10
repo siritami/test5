@@ -19,8 +19,8 @@ patch_dl(){
 	NPatch_dl
 	patch_dl
 	# Patch Facebook:
-	version="576.0.0.42.73"
-	get_apk "com.facebook.katana" "facebook-arm64-v8a" "bundle" "arm64-v8a" "120-640dpi" "Android 11+"
+	version="577.0.0.50.72"
+	get_apk "com.facebook.katana" "facebook-arm64-v8a" "bundle" "arm64-v8a" "160-640dpi" "Android 11+"
 	lspatch "facebook-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 	# Patch Messenger:
 	get_apk "com.facebook.orca" "messenger-arm64-v8a" "apk" "arm64-v8a" "nodpi" "Android 9.0+"
@@ -40,8 +40,8 @@ patch_dl(){
 	NPatch_dl
 	patch_dl
 	# Patch Zalo:
-	get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
-	lspatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh"
+	#get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
+	#lspatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh"
 }
 case "$1" in
     1)

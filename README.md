@@ -518,21 +518,31 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Truecaller:](https://play.google.com/store/apps/details?id=com.truecaller)
 
+### [Bufferk:](https://github.com/bufferk/morphe-patches)
+
+[Arm64-v8a](../../releases/download/all/truecaller-arm64-v8a-bufferk.apk)
+
+<details>
+  <summary>Outdated patches</summary>
+
 ### [Paresh Patches:](https://gitlab.com/Paresh-Maheshwari/paresh-patches)
 
 [Arm64-v8a](../../releases/download/all/truecaller-arm64-v8a-paresh.apk)
 
-### [Bufferk:](https://github.com/morphe-patches/bufferk)
-
-[Arm64-v8a](../../releases/download/all/truecaller-arm64-v8a-bufferk.apk)
+</details>
 
 ---
 
 ### [EyeconCaller:](https://play.google.com/store/apps/details?id=com.eyecon.global)
 
+<details>
+  <summary>Outdated patches</summary>
+
 ### [Paresh Patches:](https://gitlab.com/Paresh-Maheshwari/paresh-patches)
 
 [Arm64-v8a](../../releases/download/all/eyecon-caller-arm64-v8a-paresh.apk)
+
+</details>
 
 ---
 
@@ -546,9 +556,14 @@ And if you can't install messenger back again because they check sign app should
 
 ### [CamScanner:]()
 
+<details>
+  <summary>Outdated patches</summary>
+
 ### [Paresh Patches:](https://gitlab.com/Paresh-Maheshwari/paresh-patches)
 
 [Arm64-v8a](../../releases/download/all/camscanner-hoo-dles.apk)
+
+</details>
 
 ---
 
@@ -837,14 +852,15 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Telegram:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
+<details>
+  <summary>Outdated patches</summary>
+
 ### [Paresh Patches:](https://gitlab.com/Paresh-Maheshwari/paresh-patches)
 
 Web version:
 
 [Arm64-v8a](../../releases/download/all/telegram-web-version-paresh.apk)
 
-<details>
-  <summary>Outdated patches</summary>
 
 ### [Revanced Experiments:](https://github.com/Aunali321/ReVancedExperiments)
 

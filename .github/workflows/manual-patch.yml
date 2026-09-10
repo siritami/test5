@@ -22,7 +22,6 @@ on:
           - 'Twitter Piko Beta'
           - 'Piko NewX'
           - 'DeRevanced'
-          - 'Paresh'
           - 'hoo-dles'
           - 'bufferk'
           - 'arandomhooman'
@@ -244,30 +243,6 @@ jobs:
       - name: Releasing APK files
         id: release-piko-newx
         if: steps.check-gh-piko-newx.outputs.internet_error == '0'
-        uses: ./.github/actions/release
-  patch_paresh:
-    name: Patch Paresh
-    if: ${{ github.event.inputs.org == 'Paresh' || inputs.org == 'Paresh' }}
-    strategy:
-      fail-fast: false
-      matrix:
-        run: [1, 2]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6.0.2
-      - name: Preparing to patch
-        uses: ./.github/actions/preparing
-      - name: Check github connection
-        id: check-gh-paresh
-        run: bash src/etc/connection.sh
-      - name: Patch apk
-        id: patch-paresh
-        if: steps.check-gh-paresh.outputs.internet_error == '0'
-        run: bash src/build/Paresh.sh ${{ matrix.run }}
-      - name: Releasing APK files
-        id: release-paresh
-        if: steps.check-gh-paresh.outputs.internet_error == '0'
         uses: ./.github/actions/release
   patch_hoo_dles:
     name: Patch hoo-dles

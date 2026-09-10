@@ -280,9 +280,12 @@ get_apk() {
 	local html=""
 
 	local apps_json="./src/build/helper/apps.json"
-	local list_url example_url
+	local list_url
+	local example_urls=()
 	list_url=$(jq -r --arg pkg "$pkg_name" '.apkmirror[$pkg].list_url // empty' "$apps_json")
-	example_url=$(jq -r --arg pkg "$pkg_name" '.apkmirror[$pkg].example_url // empty' "$apps_json")
+	while IFS= read -r example_url; do
+		[[ -n "$example_url" ]] && example_urls+=("$example_url")
+	done < <(jq -r --arg pkg "$pkg_name" '.apkmirror[$pkg] | .example_url, .example_url2 // empty' "$apps_json")
 
 	if [[ -z "$list_url" ]]; then
 		red_log "[-] Package $pkg_name not found in apps.json"
@@ -306,16 +309,25 @@ get_apk() {
 
 	local version_href=""
 
-	if [[ -n "$example_url" && -n "$version" ]]; then
-		version_href="${example_url#$base_url}"
-		local slug_ver
-		slug_ver=$(echo "$version_href" | grep -oP '\d+(-\d+)+' | tail -1)
-		local target_ver
-		target_ver=$(echo "$version" | tr '.' '-' | grep -oP '\d+(-\d+)+')
-		if [[ -n "$slug_ver" ]]; then
-			version_href="${version_href/$slug_ver/$target_ver}"
-		fi
-	else
+	if [[ ${#example_urls[@]} -gt 0 && -n "$version" ]]; then
+		local example_url slug_ver target_ver
+		for example_url in "${example_urls[@]}"; do
+			version_href="${example_url#$base_url}"
+			slug_ver=$(echo "$version_href" | grep -oP '\d+(-\d+)+' | tail -1)
+			target_ver=$(echo "$version" | tr '.' '-' | grep -oP '\d+(-\d+)+')
+			if [[ -n "$slug_ver" ]]; then
+				version_href="${version_href/$slug_ver/$target_ver}"
+			fi
+
+			echo "$base_url$version_href"
+			if _cf_get "$base_url$version_href" && [[ "$html" != *"Page Not Found"* && "$html" != *"404 Whoops"* ]]; then
+				break
+			fi
+			version_href=""
+		done
+	fi
+
+	if [[ -z "$version_href" ]]; then
 		_cf_get "$list_url" || return 1
 
 		version_href=$(echo "$html" | $pup 'h5.appRowTitle a.fontBlack json{}' | \
@@ -337,11 +349,11 @@ get_apk() {
 				version_href="${version_href/$slug_ver/$target_ver}"
 			fi
 		fi
+
+		echo "$base_url$version_href"
+
+		_cf_get "$base_url$version_href" || return 1
 	fi
-
-	echo "$base_url$version_href"
-
-	_cf_get "$base_url$version_href" || return 1
 
 	if [[ "$html" == *"Page Not Found"* ]] || [[ "$html" == *"404 Whoops"* ]]; then
 		yellow_log "[!] Version page not found, searching uploads pages..."
@@ -388,7 +400,7 @@ get_apk() {
 			return 1
 		fi
 		echo "$base_url$version_href"
-	_cf_get "$base_url$version_href" || return 1
+		_cf_get "$base_url$version_href" || return 1
 	fi
 
 	local type_badge="APK"
@@ -726,7 +738,7 @@ patch() {
 	if [ -f "./download/$1.apk" ]; then
 		echo "Patching with Morphe"
 		unset CI GITHUB_ACTION GITHUB_ACTIONS GITHUB_ACTOR GITHUB_ENV GITHUB_EVENT_NAME GITHUB_EVENT_PATH GITHUB_HEAD_REF GITHUB_JOB GITHUB_REF GITHUB_REPOSITORY GITHUB_RUN_ID GITHUB_RUN_NUMBER GITHUB_SHA GITHUB_WORKFLOW GITHUB_WORKSPACE RUN_ID RUN_NUMBER
-		eval java -jar morphe-desktop-*.jar patch -p *.mpp --options-file ./src/options/$2.json --out=./release/$1-$2.apk$excludePatches$includePatches --keystore=./src/morphe.keystore --force --continue-on-error ./download/$1.apk
+		eval java -jar morphe-desktop-*.jar patch -p *.mpp --options-file ./src/options/$2.json --out=./release/$1-$2.apk$excludePatches$includePatches --keystore=./src/keystore/morphe.keystore --force --continue-on-error ./download/$1.apk
 		unset version
 		unset lock_version
 		unset excludePatches
@@ -746,7 +758,7 @@ patch_multi() {
 			[ -f "$mpp_file" ] || continue
 			mpp_args="$mpp_args -p \"$mpp_file\"$excludePatches$includePatches"
 		done
-		eval java -jar morphe-desktop-*.jar patch $mpp_args --options-file ./src/options/$2.json --out=./release/$1-$2.apk --keystore=./src/morphe.keystore --force --continue-on-error ./download/$1.apk
+		eval java -jar morphe-desktop-*.jar patch $mpp_args --options-file ./src/options/$2.json --out=./release/$1-$2.apk --keystore=./src/keystore/morphe.keystore --force --continue-on-error ./download/$1.apk
   		unset version
 		unset lock_version
 		unset excludePatches
@@ -772,7 +784,7 @@ lspatch() {
 			red_log "[-] Module not found: $2"
 			return 1
 		fi
-		java -jar lspatch-*-release.jar  ./download/$1.apk -k ./src/lspatch-signing.p12 "morphe" "fiorenmas" "morphe" -m "$module" -o ./release/
+		java -jar lspatch-*-release.jar  ./download/$1.apk -k ./src/keystore/lspatch-signing.p12 "morphe" "fiorenmas" "morphe" -m "$module" -o ./release/
 		mv ./release/$1-*-lspatched.apk ./release/$1-$3.apk
 		unset version
 		unset lock_version
@@ -796,7 +808,7 @@ npatch() {
 			red_log "[-] Module not found: $2"
 			return 1
 		fi
-		java -jar jar*.jar ./download/$1.apk -k ./src/fiorenmas.ks "fiorenmas" "morphe" "fiorenmas" $4 -m "$module" -o ./release/
+		java -jar jar*.jar ./download/$1.apk -k ./src/keystore/fiorenmas.ks "fiorenmas" "morphe" "fiorenmas" $4 -m "$module" -o ./release/
 		mv ./release/$1-*-npatched.apk ./release/$1-$3.apk
 		unset version
 		unset lock_version
@@ -858,7 +870,7 @@ split_arch() {
 		eval java -jar morphe-desktop-*.jar patch \
 		-p *.mpp $excludePatches$includePatches --options-file ./src/options/$2.json \
 		--striplibs ${archs[i]} \
-		--keystore=./src/morphe.keystore --force \
+		--keystore=./src/keystore/morphe.keystore --force \
 		--out=./release/$1-${archs[i]}-$2.apk \
 		./download/$1.apk
 	else
