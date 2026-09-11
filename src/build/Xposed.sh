@@ -41,7 +41,7 @@ patch_dl(){
 	dl_gh "NexAlloy" "gnadgnaoh" "v1.1"
 	# Patch Zalo:
 	get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
-	lspatch "zalo" "NexAlloy*.apk" "gnadgnaoh"
+	npatch "zalo" "NexAlloy*.apk" "gnadgnaoh"
 }
 5() {
 	NPatch_dl
