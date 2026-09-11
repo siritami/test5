@@ -410,6 +410,10 @@ And if you can't install messenger back again because they check sign app should
 
 ### [TikTok:](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically)
 
+### [gnadgnaoh:](https://github.com/gnadgnaoh/SexAlloy/)
+
+[All Architectures](../../releases/download/all/tiktok-gnadgnaoh.apk)
+
 ### [icysymmetra:](https://github.com/icysymmetra/tiktok-patches-for-morphe)
 
 [All Architectures](../../releases/download/all/tiktok-icysymmetra.apk)
@@ -432,6 +436,10 @@ And if you can't install messenger back again because they check sign app should
 ---
 
 ### [TikTok Asia:](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
+
+### [gnadgnaoh:](https://github.com/gnadgnaoh/SexAlloy/)
+
+[All Architectures](../../releases/download/all/tiktok-asian-gnadgnaoh.apk)
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 

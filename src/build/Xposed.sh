@@ -38,10 +38,20 @@ patch_dl(){
 }
 4() {
 	NPatch_dl
-	patch_dl
+	dl_gh "NexAlloy" "gnadgnaoh" "v1.1"
 	# Patch Zalo:
-	#get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
-	#lspatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh"
+	get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
+	lspatch "zalo" "NexAlloy*.apk" "gnadgnaoh"
+}
+5() {
+	NPatch_dl
+	patch_dl
+	# Patch Tiktok:
+	get_apk "com.zhiliaoapp.musically" "tiktok" "apk"
+	lspatch "tiktok" "NexAlloy*.apk" "gnadgnaoh"
+	# Patch Tiktok Asian:
+	get_apk "com.ss.android.ugc.trill" "tiktok-asian" "apk"
+	lspatch "tiktok-asian" "NexAlloy*.apk" "gnadgnaoh"
 }
 case "$1" in
     1)
@@ -55,5 +65,8 @@ case "$1" in
         ;;
     4)
         4
+        ;;
+    5)
+        5
         ;;
 esac
