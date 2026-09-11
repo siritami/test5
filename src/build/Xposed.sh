@@ -37,21 +37,21 @@ patch_dl(){
 	lspatch "threads-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 4() {
-	NPatch_dl
-	dl_gh "NexAlloy" "gnadgnaoh" "v1.0"
+	dl_gh "NPatch" "7723mod" "v1.0.5"
+	dl_gh "NexAlloy" "gnadgnaoh" "v1.1"
 	# Patch Zalo:
 	get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
-	lspatch "zalo" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 4"
+	npatch "zalo" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 5() {
 	NPatch_dl
 	patch_dl
 	# Patch Tiktok:
 	get_apk "com.zhiliaoapp.musically" "tiktok" "apk"
-	lspatch "tiktok" "NexAlloy*.apk" "gnadgnaoh"
+	lspatch "tiktok" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 	# Patch Tiktok Asian:
 	get_apk "com.ss.android.ugc.trill" "tiktok-asian" "apk"
-	lspatch "tiktok-asian" "NexAlloy*.apk" "gnadgnaoh"
+	lspatch "tiktok-asian" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 case "$1" in
     1)
