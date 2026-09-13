@@ -37,7 +37,7 @@ patch_dl(){
 	npatch "threads-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--sigbypasslv 3"
 }
 4() {
-	NPatch_dl
+	dl_gh "NPatch" "7723mod" "v1.05"
 	patch_dl
 	# Patch Zalo:
 	get_apkpure "com.zing.zalo" "zalo" "bundle"
