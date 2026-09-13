@@ -6,7 +6,7 @@ NPatch_dl(){
 	dl_gh "NPatch" "7723mod" "latest"
 }
 patch_dl(){
-	dl_gh "NexAlloy" "gnadgnaoh" "v1.0"
+	dl_gh "NexAlloy" "gnadgnaoh" "v2.0"
 }
 1() {
 	# Patch Revenge:
@@ -38,10 +38,10 @@ patch_dl(){
 }
 4() {
 	dl_gh "NPatch" "7723mod" "v1.0.5"
-	dl_gh "NexAlloy" "gnadgnaoh" "v1.1"
+	patch_dl
 	# Patch Zalo:
 	get_apkpure "com.zing.zalo" "zalo" "bundle"
-	npatch "zalo" "test-zalo-callr-recording.apk" "gnadgnaoh" "--sigbypasslv 3"
+	npatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--sigbypasslv 3"
 }
 5() {
 	NPatch_dl
