@@ -7,10 +7,6 @@ jobs:
   Patch-Xposed:
     name: Patch Xposed
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        run: [1, 2, 3, 4, 5]
     steps:
       - name: Checkout
         uses: actions/checkout@v6.0.2
@@ -24,7 +20,7 @@ jobs:
       - name: Patch apk
         id: patch-xposed
         if: steps.check-gh-xposed.outputs.internet_error == '0'
-        run: bash src/build/Xposed.sh ${{ matrix.run }}
+        run: bash src/build/Xposed.sh 4
       - name: Releasing APK files
         id: release-xposed
         if: steps.check-gh-xposed.outputs.internet_error == '0'
