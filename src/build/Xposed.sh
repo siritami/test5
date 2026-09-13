@@ -38,14 +38,14 @@ patch_dl(){
 }
 4() {
 	dl_gh "NPatch" "7723mod" "v1.0.5"
-	patch_dl
+	dl_gh "SexAlloy" "siritami" "v1.0"
 	# Patch Zalo:
 	get_apkpure "com.zing.zalo" "zalo" "bundle"
 	npatch "zalo" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--sigbypasslv 3"
 }
 5() {
 	NPatch_dl
-	patch_dl
+	dl_gh "NexAlloy" "gnadgnaoh" "v2.0"
 	# Patch Tiktok:
 	get_apk "com.zhiliaoapp.musically" "tiktok" "apk"
 	npatch "tiktok" "NexAlloy*.apk" "gnadgnaoh" "--sigbypasslv 3"
