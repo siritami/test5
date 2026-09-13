@@ -40,7 +40,7 @@ patch_dl(){
 	NPatch_dl
 	patch_dl
 	# Patch Zalo:
-	get_apk "com.zing.zalo" "zalo" "bundle" "arm64-v8a + armeabi-v7a"
+	get_apkpure "com.zing.zalo" "zalo" "bundle"
 	npatch "zalo" "NexAlloy*.apk" "gnadgnaoh" "--sigbypasslv 3"
 }
 5() {
