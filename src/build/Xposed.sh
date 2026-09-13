@@ -38,7 +38,7 @@ patch_dl(){
 }
 4() {
 	dl_gh "NPatch" "7723mod" "v1.0.5"
-	patch_dl
+	dl_gh "NexAlloy" "gnadgnaoh" "v1.1"
 	# Patch Zalo:
 	get_apkpure "com.zing.zalo" "zalo" "bundle"
 	npatch "zalo" "NexAlloy*.apk" "gnadgnaoh" "--sigbypasslv 3"
