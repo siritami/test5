@@ -31,8 +31,8 @@ patch_dl(){
 	npatch "instagram-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--sigbypasslv 3"
 }
 4() {
-	dl_gh "NPatch" "7723mod" "v1.0.5"
 	dl_gh "test5" "siritami" "latest"
+	patch_dl
 	# Patch Zalo:
 	get_apkpure "com.zing.zalo" "zalo" "bundle"
 	npatch "zalo" "NexAlloy*.apk" "gnadgnaoh" "--sigbypasslv 3"
