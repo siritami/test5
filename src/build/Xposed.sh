@@ -33,7 +33,7 @@ patch_dl(){
 	get_apk "com.instagram.android" "instagram-arm64-v8a" "bundle" "arm64-v8a" "120-640dpi"  "Android 9.0+"
 	lspatch "instagram-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 	# Patch Thread:
-	get_apk "com.instagram.barcelona" "threads-arm64-v8a" "bundle" "arm64-v8a" "320-480dpi" "Android 9.0+"
+	get_apk "com.instagram.barcelona" "threads-arm64-v8a" "bundle" "arm64-v8a" "160-640dpi" "Android 9.0+"
 	lspatch "threads-arm64-v8a" "NexAlloy-nonroot*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 4() {
