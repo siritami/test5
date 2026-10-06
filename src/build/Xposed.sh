@@ -5,6 +5,9 @@ source ./src/build/utils.sh
 LSPatch_dl(){
 	dl_gh "LSPatch" "JingMatrix" "latest"
 }
+NPatch_dl(){
+	dl_gh "NPatch" "7723mod" "latest"
+}
 patch_dl(){
 	dl_gh "NexAlloy" "gnadgnaoh" "v1.0"
 }
@@ -44,14 +47,14 @@ patch_dl(){
 	lspatch "zalo" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 5() {
-	LSPatch_dl
+	NPatch_dl
 	patch_dl
 	# Patch Tiktok:
 	get_apk "com.zhiliaoapp.musically" "tiktok" "apk"
-	lspatch "tiktok" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
+	npatch "tiktok" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 	# Patch Tiktok Asian:
 	get_apk "com.ss.android.ugc.trill" "tiktok-asian" "apk"
-	lspatch "tiktok-asian" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
+	npatch "tiktok-asian" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
 }
 case "$1" in
     1)
