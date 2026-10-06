@@ -51,10 +51,10 @@ patch_dl(){
 	patch_dl
 	# Patch Tiktok:
 	get_apk "com.zhiliaoapp.musically" "tiktok" "apk"
-	npatch "tiktok" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
+	npatch "tiktok" "NexAlloy*.apk" "gnadgnaoh" "--sigbypasslv 3"
 	# Patch Tiktok Asian:
 	get_apk "com.ss.android.ugc.trill" "tiktok-asian" "apk"
-	npatch "tiktok-asian" "NexAlloy*.apk" "gnadgnaoh" "--injectdex --sigbypasslv 3"
+	npatch "tiktok-asian" "NexAlloy*.apk" "gnadgnaoh" "--sigbypasslv 3"
 }
 case "$1" in
     1)
