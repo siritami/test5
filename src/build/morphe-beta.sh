@@ -8,7 +8,6 @@ morphe_dl(){
 }
 1() {
 	morphe_dl
-
 	# Patch YouTube:
 	get_patches_key "youtube-morphe"
 	prefer_version="$youtube_experimental_support"
