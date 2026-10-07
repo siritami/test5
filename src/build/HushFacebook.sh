@@ -4,7 +4,7 @@ source ./src/build/utils.sh
 #################################################
 # Download requirements
 dl_gh "morphe-desktop" "MorpheApp" "latest"
-
+dl_gh "Hushfacebook" "SysAdminDoc" "latest"
 #################################################
 # Patch Facebook:
 get_patches_key "HushFacebook"
