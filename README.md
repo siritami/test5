@@ -158,6 +158,15 @@ Download
 | [x86](../../releases/download/all/youtube-x86-morphe.apk)                    | [x86](../../releases/download/all/youtube-beta-x86-morphe.apk)                 |
 | [x86_64](../../releases/download/all/youtube-x86_64-morphe.apk)              | [x86_64](../../releases/download/all/youtube-beta-x86_64-morphe.apk)           |
 
+### [Reseam:](https://github.com/Reseam/patches)
+
+| [Stable version](https://github.com/Reseam/patches/releases/latest)              |
+| -------------------------------------------------------------------------------- |
+| [All Architectures](../../releases/download/all/youtube-reseam.apk)              |
+| [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-reseam.apk)            |
+| [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-reseam.apk)        |
+| [x86](../../releases/download/all/youtube-x86-reseam.apk)                        |
+| [x86_64](../../releases/download/all/youtube-x86_64-reseam.apk)                  |
 
 ### [Revanced Extended forked by anddea:](https://github.com/anddea/revanced-patches)
 
@@ -243,6 +252,12 @@ Download
 | [Stable version](https://github.com/MorpheApp/morphe-patches/releases/latest)  | [Beta version](https://github.com/MorpheApp/morphe-patches/releases)                |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | [Arm64-v8a](../../releases/download/all/youtube-music-arm64-v8a-morphe.apk)    | [Arm64-v8a](../../releases/download/all/youtube-music-beta-arm64-v8a-morphe.apk)    |
+
+### [Reseam:](https://github.com/Reseam/patches)
+
+| [Stable version](https://github.com/Reseam/patches/releases/latest)                     |
+| --------------------------------------------------------------------------------------- |
+| [Arm64-v8a](../../releases/download/all/youtube-music-arm64-v8a-reseam.apk)             |
 
 ### [Revanced Extended forked by anddea:](https://github.com/anddea/revanced-patches)
 
@@ -344,6 +359,12 @@ And if you can't install messenger back again because they check sign app should
 
 [All Architectures](../../releases/download/all/twitter-piko-newx.apk)
 
+### [Reseam:](https://github.com/Reseam/patches)
+
+| [Stable version](https://github.com/Reseam/patches/releases/latest)          |
+| ---------------------------------------------------------------------------- |
+| [All Architectures](../../releases/download/all/twitter-reseam.apk)          |
+
 ---
 
 ### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
@@ -357,6 +378,10 @@ And if you can't install messenger back again because they check sign app should
 ### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
 [Arm64-v8a & Android 9+](../../releases/download/all/instagram-arm64-v8a-gnadgnaoh.apk)
+
+### [Reseam:](https://github.com/Reseam/patches)
+
+[Arm64-v8a & Android 9+](../../releases/download/all/instagram-arm64-v8a-reseam.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -384,6 +409,10 @@ And if you can't install messenger back again because they check sign app should
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
 [Arm64-v8a](../../releases/download/all/threads-arm64-v8a-derevanced.apk)
+
+### [Reseam:](https://github.com/Reseam/patches)
+
+[Arm64-v8a & Android 9+](../../releases/download/all/threads-arm64-v8a-reseam.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -429,6 +458,10 @@ And if you can't install messenger back again because they check sign app should
 
 [All Architectures](../../releases/download/all/tiktok-derevanced.apk)
 
+### [Reseam:](https://github.com/Reseam/patches)
+
+[All Architectures](../../releases/download/all/tiktok-reseam.apk)
+
 <details>
   <summary>Outdated patches</summary>
 
@@ -466,6 +499,12 @@ And if you can't install messenger back again because they check sign app should
 
 [Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-derevanced.apk)
 
+### [Reseam:](https://github.com/Reseam/patches)
+
+[All Architectures](../../releases/download/all/twitch-reseam.apk)
+
+[Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-reseam.apk)
+
 <details>
   <summary>Outdated patches</summary>
 
@@ -488,6 +527,13 @@ And if you can't install messenger back again because they check sign app should
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- | 
 | [All Architectures](../../releases/download/all/reddit-morphe.apk)   | [All Architectures](../../releases/download/all/reddit-beta-morphe.apk)   |
 | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-morphe.apk) | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-beta-morphe.apk) |
+
+### [Reseam:](https://github.com/Reseam/patches)
+
+| [Stable version](https://github.com/Reseam/patches/releases/latest)        |
+| -------------------------------------------------------------------------- |
+| [All Architectures](../../releases/download/all/reddit-reseam.apk)         |
+| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-reseam.apk)       |
 
 <details>
   <summary>Outdated patches</summary>
@@ -521,6 +567,10 @@ And if you can't install messenger back again because they check sign app should
 ### [browzomje:](https://github.com/browzomje/browzomje-patches)
 
 [All Architectures](../../releases/download/all/pinterest-browzomje.apk)
+
+### [Reseam:](https://github.com/Reseam/patches)
+
+[All Architectures](../../releases/download/all/pinterest-reseam.apk)
 
 ---
 
@@ -870,6 +920,10 @@ And if you can't install messenger back again because they check sign app should
 ### [Revenge:](https://github.com/revenge-mod/revenge-xposed)
 
 [All Architectures](../../releases/download/all/discord-revenge.apk )
+
+### [Reseam:](https://github.com/Reseam/patches)
+
+[All Architectures](../../releases/download/all/discord-reseam.apk)
 
 ---
 
