@@ -1,6 +1,6 @@
 
 <h4 align="center">
-They are open-source scripts for patching various apps like YouTube, YouTube Music... However, they are very difficult to use for most users. That's why I created this repository to provide an easier way.
+There are many open-source scripts for patching various apps like YouTube, YouTube Music... However, they are very difficult to use for most users. That's why I created this repository that allows users to download those apps easily.
 </h4>
 <div align="center">
   
@@ -16,37 +16,37 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 > ## Backup Telegram channel: 
 > ### [https://t.me/fiorenmas](https://t.me/fiorenmas)
 
-> [!IMPORTANT] 
-> ### Vietnamese "dev" list below:
-> [@AnhsNguyetj](https://t.me/AnhsNguyetj) [haidayne](https://github.com/haidayne) and their telegram channel "Cộng đồng Android Việt Nam"
-> 
-> [@realknoname](https://t.me/realknoname) [soctrungkien](https://github.com/soctrungkien) and [traces here](https://github.com/gnadgnaoh/ZaloXposed)
-> 
-> They stolen code my friend "gnadgnaoh" without credit (and then charge user when using their mod app). Remember don't use their mod if you want support author.
+> [!IMPORTANT]
+> ### Vietnamese "devs" listed below:
+> [haidayne](https://github.com/haidayne) ([@AnhsNguyetj](https://t.me/AnhsNguyetj)) and [soctrungkien](https://github.com/soctrungkien) ([@realknoname](https://t.me/realknoname)) 
+>
+> Stole my friend [gnadgnaoh's code](https://github.com/gnadgnaoh/SexAlloy) without crediting him and then sold it as a product in their telegram channel "Cộng đồng Android Việt Nam". [Fully detailed report linked here](https://github.com/gnadgnaoh/ZaloXposed) 
+>
+> Don't use their mods as they didn't support the original code author and are unethical people.
 
-## ⚙️ How does this repository work?<img src="../main/docs/image/Readme.png" align="right" />
-Simply, all you need to do is choose the app you want to use from the options below: 'Revanced' or 'Revanced Extended'. Then, select your phone's CPU architecture. If you don't know what your phone's CPU architecture is, choose All Architectures. That's all there is to it.
+## ⚙️ How does this repository work? <img src="../main/docs/image/Readme.png" align="right" />
+All you need to do is choose the app you want to use from the options below: 'Revanced' or 'Revanced Extended'. Then, select your phone's CPU architecture. If you don't know what your phone's CPU architecture is, choose Universal. That's all there is to it.
 
 > [!NOTE]
-> If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG RE](https://github.com/MorpheApp/MicroG-RE)
-> 
-> This repository is not like any other repository. It does not create new releases; it only releases new files.
-> 
-> All the code is open-source, clearly, and the APK files used for patching are downloaded from a trusted site, so it is totally safe for you to use.
+> If you want to use YouTube, YouTube Music, or Google Photos, you need to download and install [MicroG RE](https://github.com/MorpheApp/MicroG-RE)
+>
+> This repository does not create new releases; it only releases new files.
+>
+> All the code is open-source, and the APK files used for patching are downloaded from a trusted site, so it is safe for you to use.
 ---
 <h1 align="center">
 Download
 </h1>
 
-> [!IMPORTANT] 
-> Beta versions mean using dev patches, not using beta apk files. Beta version have the same package name as Stable version, so installing them will overwrite Stable version.
+> [!IMPORTANT]
+> Beta versions use dev patches, not beta APK files. Beta versions have the same package name as Stable versions, so installing them will overwrite the Stable version.
 >
-> License owned by creator. If you like any modded app, please support the original author.
+> Licenses are owned by their respective creators. If you like any modded app, please support the developer who developed it.
 > 
 ---
 
 <details>
-  <summary><h2>Jump list apps</h2></summary>
+  <summary><h2>List of available apps</h2></summary>
 
 #### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](README.md#youtube)
 
@@ -142,7 +142,7 @@ Download
 
 ## [MicroG RE:](https://github.com/MorpheApp/MicroG-RE)
 
-[![Release](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=All%20Architectures&style=for-the-badge)](https://github.com/MorpheApp/MicroG-RE/releases) 
+[![Release](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=Universal&style=for-the-badge)](https://github.com/MorpheApp/MicroG-RE/releases) 
 
 ---
 
@@ -152,27 +152,18 @@ Download
 
 | [Stable version](https://github.com/MorpheApp/morphe-patches/releases/latest)| [Beta version](https://github.com/MorpheApp/morphe-patches/releases)           |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [All Architectures](../../releases/download/all/youtube-morphe.apk)          | [All Architectures](../../releases/download/all/youtube-beta-morphe.apk)       |
+| [Universal](../../releases/download/all/youtube-morphe.apk)          | [Universal](../../releases/download/all/youtube-beta-morphe.apk)       |
 | [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-morphe.apk)        | [Arm64-v8a](../../releases/download/all/youtube-beta-arm64-v8a-morphe.apk)     |
 | [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-morphe.apk)    | [Armeabi-v7a](../../releases/download/all/youtube-beta-armeabi-v7a-morphe.apk) |
 | [x86](../../releases/download/all/youtube-x86-morphe.apk)                    | [x86](../../releases/download/all/youtube-beta-x86-morphe.apk)                 |
 | [x86_64](../../releases/download/all/youtube-x86_64-morphe.apk)              | [x86_64](../../releases/download/all/youtube-beta-x86_64-morphe.apk)           |
 
-### [Reseam:](https://github.com/Reseam/patches)
-
-| [Stable version](https://github.com/Reseam/patches/releases/latest)              |
-| -------------------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/youtube-reseam.apk)              |
-| [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-reseam.apk)            |
-| [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-reseam.apk)        |
-| [x86](../../releases/download/all/youtube-x86-reseam.apk)                        |
-| [x86_64](../../releases/download/all/youtube-x86_64-reseam.apk)                  |
 
 ### [Revanced Extended forked by anddea:](https://github.com/anddea/revanced-patches)
 
 | [Stable version](https://github.com/anddea/revanced-patches/releases/latest)     | [Beta version](https://github.com/anddea/revanced-patches/releases)            |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [All Architectures](../../releases/download/all/youtube-stable-anddea.apk)       | [All Architectures](../../releases/download/all/youtube-beta-anddea.apk)       |
+| [Universal](../../releases/download/all/youtube-stable-anddea.apk)       | [Universal](../../releases/download/all/youtube-beta-anddea.apk)       |
 | [Arm64-v8a](../../releases/download/all/youtube-stable-arm64-v8a-anddea.apk)     | [Arm64-v8a](../../releases/download/all/youtube-beta-arm64-v8a-anddea.apk)     |
 | [Armeabi-v7a](../../releases/download/all/youtube-stable-armeabi-v7a-anddea.apk) | [Armeabi-v7a](../../releases/download/all/youtube-beta-armeabi-v7a-anddea.apk) |
 | [x86](../../releases/download/all/youtube-stable-x86-anddea.apk)                 | [x86](../../releases/download/all/youtube-beta-x86-anddea.apk)                 |
@@ -185,7 +176,7 @@ Download
 
 | [Stable version](https://github.com/ReVanced/revanced-patches/releases/latest) | [Beta version](https://github.com/ReVanced/revanced-patches/releases)            |
 | -----------------------------------------------------------------------------  | -------------------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/youtube-revanced.apk)          | [All Architectures](../../releases/download/all/youtube-beta-revanced.apk)       |
+| [Universal](../../releases/download/all/youtube-revanced.apk)          | [Universal](../../releases/download/all/youtube-beta-revanced.apk)       |
 | [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-revanced.apk)        | [Arm64-v8a](../../releases/download/all/youtube-beta-arm64-v8a-revanced.apk)     |
 | [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-revanced.apk)    | [Armeabi-v7a](../../releases/download/all/youtube-beta-armeabi-v7a-revanced.apk) |
 | [x86](../../releases/download/all/youtube-x86-revanced.apk)                    | [x86](../../releases/download/all/youtube-beta-x86-revanced.apk)                 |
@@ -207,7 +198,7 @@ Download
 
 | [Stable version](https://github.com/inotia00/revanced-patches/releases/latest)       | [Beta version](https://github.com/inotia00/revanced-patches/releases)                     |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/youtube-revanced-extended.apk)       | [All Architectures](../../releases/download/all/youtube-beta-revanced-extended.apk)       |
+| [Universal](../../releases/download/all/youtube-revanced-extended.apk)       | [Universal](../../releases/download/all/youtube-beta-revanced-extended.apk)       |
 | [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-revanced-extended.apk)     | [Arm64-v8a](../../releases/download/all/youtube-beta-arm64-v8a-revanced-extended.apk)     |
 | [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-revanced-extended.apk) | [Armeabi-v7a](../../releases/download/all/youtube-beta-armeabi-v7a-revanced-extended.apk) |
 | [x86](../../releases/download/all/youtube-x86-revanced-extended.apk)                 | [x86](../../releases/download/all/youtube-beta-x86-revanced-extended.apk)                 |
@@ -218,7 +209,7 @@ Download
 
 **Please read [Instruction](https://github.com/kitadai31/revanced-patches-android6-7/tree/revanced-extended?tab=readme-ov-file#however-a-workaround-exists) before use**
 
-[All Architectures](../../releases/download/all/youtube-revanced-extended-android-6-7.apk)
+[Universal](../../releases/download/all/youtube-revanced-extended-android-6-7.apk)
 
 [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-revanced-extended-android-6-7.apk)
 
@@ -231,7 +222,7 @@ Download
 
 ### [Revanced Extended For Android 5:](https://github.com/d4n3436/revanced-patches-android5)
 
-[All Architectures](../../releases/download/all/youtube-revanced-extended-android-5.apk)
+[Universal](../../releases/download/all/youtube-revanced-extended-android-5.apk)
 
 [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-revanced-extended-android-5.apk)
 
@@ -252,12 +243,6 @@ Download
 | [Stable version](https://github.com/MorpheApp/morphe-patches/releases/latest)  | [Beta version](https://github.com/MorpheApp/morphe-patches/releases)                |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | [Arm64-v8a](../../releases/download/all/youtube-music-arm64-v8a-morphe.apk)    | [Arm64-v8a](../../releases/download/all/youtube-music-beta-arm64-v8a-morphe.apk)    |
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-| [Stable version](https://github.com/Reseam/patches/releases/latest)                     |
-| --------------------------------------------------------------------------------------- |
-| [Arm64-v8a](../../releases/download/all/youtube-music-arm64-v8a-reseam.apk)             |
 
 ### [Revanced Extended forked by anddea:](https://github.com/anddea/revanced-patches)
 
@@ -301,7 +286,7 @@ Download
 
 This app might crash 2-3 times on the first startup. Don't worry - just try opening it again and it will work.
 
-And if you can't install messenger back again because they check sign app should need messenger [from here](README.md#gnadgnaoh-1) too
+And if you can't install Messenger back again because they check the sign, the app should need Messenger [from here](README.md#gnadgnaoh-1) too.
 
 [Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-gnadgnaoh.apk)
 
@@ -349,21 +334,15 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Piko:](https://github.com/crimera/piko)
 
-👉 [Offical author download link](https://github.com/crimera/twitter-apk/releases)
+👉 [Official author download link](https://github.com/crimera/twitter-apk/releases)
 
 | [Stable version](https://github.com/crimera/piko/releases/latest)          | [Beta version](https://github.com/crimera/piko/releases/)                |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------| 
-| [All Architectures](../../releases/download/all/twitter-stable-piko.apk)   | [All Architectures](../../releases/download/all/twitter-beta-piko.apk)   |
+| [Universal](../../releases/download/all/twitter-stable-piko.apk)   | [Universal](../../releases/download/all/twitter-beta-piko.apk)   |
 
 ### [Piko NewX:](https://github.com/crimera/piko-newx)
 
-[All Architectures](../../releases/download/all/twitter-piko-newx.apk)
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-| [Stable version](https://github.com/Reseam/patches/releases/latest)          |
-| ---------------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/twitter-reseam.apk)          |
+[Universal](../../releases/download/all/twitter-piko-newx.apk)
 
 ---
 
@@ -378,10 +357,6 @@ And if you can't install messenger back again because they check sign app should
 ### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
 [Arm64-v8a & Android 9+](../../releases/download/all/instagram-arm64-v8a-gnadgnaoh.apk)
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-[Arm64-v8a & Android 9+](../../releases/download/all/instagram-arm64-v8a-reseam.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -409,10 +384,6 @@ And if you can't install messenger back again because they check sign app should
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
 [Arm64-v8a](../../releases/download/all/threads-arm64-v8a-derevanced.apk)
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-[Arm64-v8a & Android 9+](../../releases/download/all/threads-arm64-v8a-reseam.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -448,19 +419,15 @@ And if you can't install messenger back again because they check sign app should
 
 ### [gnadgnaoh:](https://github.com/gnadgnaoh/SexAlloy/)
 
-[All Architectures](../../releases/download/all/tiktok-gnadgnaoh.apk)
+[Universal](../../releases/download/all/tiktok-gnadgnaoh.apk)
 
 ### [icysymmetra:](https://github.com/icysymmetra/tiktok-patches-for-morphe)
 
-[All Architectures](../../releases/download/all/tiktok-icysymmetra.apk)
+[Universal](../../releases/download/all/tiktok-icysymmetra.apk)
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/tiktok-derevanced.apk)
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-[All Architectures](../../releases/download/all/tiktok-reseam.apk)
+[Universal](../../releases/download/all/tiktok-derevanced.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -469,7 +436,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                         | Beta version                                                                |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------   |
-| [All Architectures](../../releases/download/all/tiktok-revanced.apk)   | [All Architectures](../../releases/download/all/tiktok-beta-revanced.apk)   |
+| [Universal](../../releases/download/all/tiktok-revanced.apk)   | [Universal](../../releases/download/all/tiktok-beta-revanced.apk)   |
 
 </details>
 
@@ -479,11 +446,11 @@ And if you can't install messenger back again because they check sign app should
 
 ### [gnadgnaoh:](https://github.com/gnadgnaoh/SexAlloy/)
 
-[All Architectures](../../releases/download/all/tiktok-asian-gnadgnaoh.apk)
+[Universal](../../releases/download/all/tiktok-asian-gnadgnaoh.apk)
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/tiktok-asia-derevanced.apk)
+[Universal](../../releases/download/all/tiktok-asia-derevanced.apk)
 
 ---
 
@@ -491,19 +458,13 @@ And if you can't install messenger back again because they check sign app should
 
 ### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
 
-[All Architectures](../../releases/download/all/twitch-arandomhooman.apk)
+[Universal](../../releases/download/all/twitch-arandomhooman.apk)
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/twitch-derevanced.apk) 
+[Universal](../../releases/download/all/twitch-derevanced.apk) 
 
 [Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-derevanced.apk)
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-[All Architectures](../../releases/download/all/twitch-reseam.apk)
-
-[Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-reseam.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -512,7 +473,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                           | Beta version                                                                   |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | 
-| [All Architectures](../../releases/download/all/twitch-revanced.apk)     | [All Architectures](../../releases/download/all/twitch-beta-revanced.apk)      |
+| [Universal](../../releases/download/all/twitch-revanced.apk)     | [Universal](../../releases/download/all/twitch-beta-revanced.apk)      |
 | [Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-revanced.apk)   | [Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-beta-revanced.apk )   |
 
 </details>
@@ -525,15 +486,8 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                       | Beta version                                                              |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- | 
-| [All Architectures](../../releases/download/all/reddit-morphe.apk)   | [All Architectures](../../releases/download/all/reddit-beta-morphe.apk)   |
+| [Universal](../../releases/download/all/reddit-morphe.apk)   | [Universal](../../releases/download/all/reddit-beta-morphe.apk)   |
 | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-morphe.apk) | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-beta-morphe.apk) |
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-| [Stable version](https://github.com/Reseam/patches/releases/latest)        |
-| -------------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/reddit-reseam.apk)         |
-| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-reseam.apk)       |
 
 <details>
   <summary>Outdated patches</summary>
@@ -542,19 +496,19 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                         | Beta version                                                                |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | 
-| [All Architectures](../../releases/download/all/reddit-revanced.apk)   | [All Architectures](../../releases/download/all/reddit-beta-revanced.apk)   |
+| [Universal](../../releases/download/all/reddit-revanced.apk)   | [Universal](../../releases/download/all/reddit-beta-revanced.apk)   |
 | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/reddit-beta-arm64-v8a-revanced.apk) |
 
 ### [Revanced Extended:](https://github.com/inotia00/revanced-patches/)
 
 | Stable version                                                                  | Beta version                                                                              |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | 
-| [All Architectures](../../releases/download/all/reddit-revanced-extended.apk)   | [All Architectures](../../releases/download/all/reddit-beta-revanced-extended.apk)        |
+| [Universal](../../releases/download/all/reddit-revanced-extended.apk)   | [Universal](../../releases/download/all/reddit-beta-revanced-extended.apk)        |
 | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-revanced-extended.apk) | [Arm64-v8a](../../releases/download/all/reddit-beta-arm64-v8a-beta-revanced-extended.apk) |
 
 ### [Revanced Extended Arsclib:](https://github.com/inotia00/revanced-patches-arsclib/)
 
-[All Architectures](../../releases/download/all/reddit-revanced-extended-arsclib.apk)
+[Universal](../../releases/download/all/reddit-revanced-extended-arsclib.apk)
 
 [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-revanced-extended-arsclib.apk)
 
@@ -566,11 +520,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [browzomje:](https://github.com/browzomje/browzomje-patches)
 
-[All Architectures](../../releases/download/all/pinterest-browzomje.apk)
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-[All Architectures](../../releases/download/all/pinterest-reseam.apk)
+[Universal](../../releases/download/all/pinterest-browzomje.apk)
 
 ---
 
@@ -644,7 +594,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
 
-[All Architectures](../../releases/download/all/battery-guru-arandomhooman.apk)
+[Universal](../../releases/download/all/battery-guru-arandomhooman.apk)
 
 ---
 
@@ -660,11 +610,11 @@ And if you can't install messenger back again because they check sign app should
 
 ### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
 
-[All Architectures](../../releases/download/all/tumblr-arandomhooman.apk)
+[Universal](../../releases/download/all/tumblr-arandomhooman.apk)
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/tumblr-derevanced.apk)
+[Universal](../../releases/download/all/tumblr-derevanced.apk)
 
 [Arm64-v8a](../../releases/download/all/tumblr-arm64-v8a-derevanced.apk)
 
@@ -675,7 +625,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                         | Beta version                                                                |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | 
-| [All Architectures](../../releases/download/all/tumblr-revanced.apk)   | [All Architectures](../../releases/download/all/tumblr-beta-revanced.apk)   |
+| [Universal](../../releases/download/all/tumblr-revanced.apk)   | [Universal](../../releases/download/all/tumblr-beta-revanced.apk)   |
 | [Arm64-v8a](../../releases/download/all/tumblr-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/tumblr-arm64-v8a-beta-revanced.apk) |
 
 </details>
@@ -686,11 +636,11 @@ And if you can't install messenger back again because they check sign app should
 
 ### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-[All Architectures](../../releases/download/all/soundcloud-hoo-dles.apk )
+[Universal](../../releases/download/all/soundcloud-hoo-dles.apk )
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/soundcloud-derevanced.apk)
+[Universal](../../releases/download/all/soundcloud-derevanced.apk)
 
 [Arm64-v8a](../../releases/download/all/soundcloud-arm64-v8a-derevanced.apk)
 
@@ -701,7 +651,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                             | Beta version                                                                    |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | 
-| [All Architectures](../../releases/download/all/soundcloud-revanced.apk)   | [All Architectures](../../releases/download/all/soundcloud-beta-revanced.apk)   |
+| [Universal](../../releases/download/all/soundcloud-revanced.apk)   | [Universal](../../releases/download/all/soundcloud-beta-revanced.apk)   |
 | [Arm64-v8a](../../releases/download/all/soundcloud-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/soundcloud-arm64-v8a-beta-revanced.apk) |
 
 </details>
@@ -721,7 +671,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                           | Beta version                                                                  |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------   |
-| [All Architectures](../../releases/download/all/duolingo-revanced.apk)   | [All Architectures](../../releases/download/all/duolingo-beta-revanced.apk)   |
+| [Universal](../../releases/download/all/duolingo-revanced.apk)   | [Universal](../../releases/download/all/duolingo-beta-revanced.apk)   |
 
 </details>
 
@@ -735,7 +685,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [docbt:](https://github.com/docbt/patched-up)
 
-[All Architectures](../../releases/download/all/googlenews-docbt.apk)
+[Universal](../../releases/download/all/googlenews-docbt.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -754,7 +704,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/photomath-derevanced.apk)
+[Universal](../../releases/download/all/photomath-derevanced.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -763,7 +713,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                             | Beta version                                                                    |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/photomath-revanced.apk)    | [All Architectures](../../releases/download/all/photomath-beta-revanced.apk)    |
+| [Universal](../../releases/download/all/photomath-revanced.apk)    | [Universal](../../releases/download/all/photomath-beta-revanced.apk)    |
 
 </details>
 
@@ -773,11 +723,11 @@ And if you can't install messenger back again because they check sign app should
 
 ### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-[All Architectures](../../releases/download/all/protonvpn-hoo-dles.apk )
+[Universal](../../releases/download/all/protonvpn-hoo-dles.apk )
 
 ### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-[All Architectures](../../releases/download/all/protonvpn-rushiranpise.apk )
+[Universal](../../releases/download/all/protonvpn-rushiranpise.apk )
 
 <details>
   <summary>Outdated patches</summary>
@@ -786,7 +736,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                          | Beta version                                                                 |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/protonvpn-revanced.apk) | [All Architectures](../../releases/download/all/protonvpn-beta-revanced.apk) |
+| [Universal](../../releases/download/all/protonvpn-revanced.apk) | [Universal](../../releases/download/all/protonvpn-beta-revanced.apk) |
 
 </details>
 
@@ -796,7 +746,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-[All Architectures](../../releases/download/all/psiphon-rushiranpise.apk )
+[Universal](../../releases/download/all/psiphon-rushiranpise.apk )
 
 ---
 
@@ -804,7 +754,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-[All Architectures](../../releases/download/all/windscribe-rushiranpise.apk )
+[Universal](../../releases/download/all/windscribe-rushiranpise.apk )
 
 ---
 
@@ -812,7 +762,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/protonmail-derevanced.apk)
+[Universal](../../releases/download/all/protonmail-derevanced.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -821,7 +771,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                              | Beta version                                                                    |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/protonmail-revanced.apk)    | [All Architectures](../../releases/download/all/protonmail-beta-revanced.apk)   |
+| [Universal](../../releases/download/all/protonmail-revanced.apk)    | [Universal](../../releases/download/all/protonmail-beta-revanced.apk)   |
 
 </details>
 
@@ -831,7 +781,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/rar-derevanced.apk)
+[Universal](../../releases/download/all/rar-derevanced.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -840,7 +790,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                    | Beta version                                                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [All Architectures](../../releases/download/all/rar-revanced.apk) | [All Architectures](../../releases/download/all/rar-beta-revanced.apk) |
+| [Universal](../../releases/download/all/rar-revanced.apk) | [Universal](../../releases/download/all/rar-beta-revanced.apk) |
 
 </details>
 
@@ -850,7 +800,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-[All Architectures](../../releases/download/all/terabox-rushiranpise.apk)
+[Universal](../../releases/download/all/terabox-rushiranpise.apk)
 
 ---
 
@@ -873,7 +823,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/pixiv-derevanced.apk)
+[Universal](../../releases/download/all/pixiv-derevanced.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -882,7 +832,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                      | Beta version                                                             |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------ | 
-| [All Architectures](../../releases/download/all/pixiv-revanced.apk) | [All Architectures](../../releases/download/all/pixiv-beta-revanced.apk) |
+| [Universal](../../releases/download/all/pixiv-revanced.apk) | [Universal](../../releases/download/all/pixiv-beta-revanced.apk) |
 
 </details>
 
@@ -900,7 +850,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-[All Architectures](../../releases/download/all/viber-derevanced.apk)
+[Universal](../../releases/download/all/viber-derevanced.apk)
 
 <details>
   <summary>Outdated patches</summary>
@@ -909,7 +859,7 @@ And if you can't install messenger back again because they check sign app should
 
 | Stable version                                                        | Beta version                                                               |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | 
-| [All Architectures](../../releases/download/all/viber-revanced.apk)   | [All Architectures](../../releases/download/all/viber-beta-revanced.apk)   |
+| [Universal](../../releases/download/all/viber-revanced.apk)   | [Universal](../../releases/download/all/viber-beta-revanced.apk)   |
 
 </details>
 
@@ -919,11 +869,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Revenge:](https://github.com/revenge-mod/revenge-xposed)
 
-[All Architectures](../../releases/download/all/discord-revenge.apk )
-
-### [Reseam:](https://github.com/Reseam/patches)
-
-[All Architectures](../../releases/download/all/discord-reseam.apk)
+[Universal](../../releases/download/all/discord-revenge.apk )
 
 ---
 
@@ -947,7 +893,7 @@ CH play version:
 
 Web version:
 
-[All Architectures](../../releases/download/all/telegram-web-version-revanced-experiments.apk) 
+[Universal](../../releases/download/all/telegram-web-version-revanced-experiments.apk) 
 
 </details>
 
@@ -962,7 +908,7 @@ Web version:
 
 | Stable version                                                             | Beta version                                                                    |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------  | 
-| [All Architectures](../../releases/download/all/MyFitnessPal-revanced.apk) | [All Architectures](../../releases/download/all/MyFitnessPal-beta-revanced.apk) |
+| [Universal](../../releases/download/all/MyFitnessPal-revanced.apk) | [Universal](../../releases/download/all/MyFitnessPal-beta-revanced.apk) |
 
 </details>
 
@@ -980,11 +926,11 @@ Web version:
 
 ### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-[All Architectures](../../releases/download/all/adguard-hoo-dles.apk )
+[Universal](../../releases/download/all/adguard-hoo-dles.apk )
 
 ### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-[All Architectures](../../releases/download/all/adguard-rushiranpise.apk )
+[Universal](../../releases/download/all/adguard-rushiranpise.apk )
 
 ---
 
@@ -992,7 +938,7 @@ Web version:
 
 ### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-[All Architectures](../../releases/download/all/smart-launcher-hoo-dles.apk )
+[Universal](../../releases/download/all/smart-launcher-hoo-dles.apk )
 
 ---
 
@@ -1000,7 +946,7 @@ Web version:
 
 ### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-[All Architectures](../../releases/download/all/wps-office-hoo-dles.apk )
+[Universal](../../releases/download/all/wps-office-hoo-dles.apk )
 
 ---
 
@@ -1008,7 +954,7 @@ Web version:
 
 ### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-[All Architectures](../../releases/download/all/waze-rushiranpise.apk )
+[Universal](../../releases/download/all/waze-rushiranpise.apk )
 
 ---
 
@@ -1016,7 +962,7 @@ Web version:
 
 ### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-Require MicroG installed
+Requires MicroG to be installed
 
 [Arm64-v8a](../../releases/download/all/solid-explorer-hoo-dles.apk )
 
@@ -1035,7 +981,7 @@ Require MicroG installed
 
 ### [Dropped Patches by indrastorms:](https://github.com/indrastorms/Dropped-Patches)
 
-[All Architectures](../../releases/download/all/nova-launcher-indrastorms.apk)
+[Universal](../../releases/download/all/nova-launcher-indrastorms.apk)
 
 ---
 
@@ -1043,7 +989,7 @@ Require MicroG installed
 
 ### [Dropped Patches by indrastorms:](https://github.com/indrastorms/Dropped-Patches)
 
-[All Architectures](../../releases/download/all/tasker-indrastorms.apk)
+[Universal](../../releases/download/all/tasker-indrastorms.apk)
 
 ---
 
@@ -1051,9 +997,9 @@ Require MicroG installed
 
 ### [Dropped Patches by indrastorms:](https://github.com/indrastorms/Dropped-Patches)
 
-[All Architectures](../../releases/download/all/fx-file-explorer-indrastorms.apk)
+[Universal](../../releases/download/all/fx-file-explorer-indrastorms.apk)
 
-### ⚠️ Library, resources using in this repository:
+### ⚠️ Libraries and resources used in this repository:
 
 <details>
   <summary>inotia00</summary>
@@ -1089,15 +1035,6 @@ Require MicroG installed
 [Patches](https://github.com/MorpheApp/morphe-patches) - [GPL-3.0](https://github.com/MorpheApp/morphe-patches/blob/main/LICENSE)
 
 [CLI](https://github.com/MorpheApp/morphe-cli) - [GPL-3.0](https://github.com/MorpheApp/morphe-cli/blob/main/LICENSE)
-
-</details>
-
-<details>
-  <summary>Reseam</summary>
-
-[Patches](https://github.com/Reseam/patches) - [AGPL-3.0](https://github.com/Reseam/patches/blob/main/LICENSE)
-
-[CLI](https://github.com/Reseam/reseam) - [AGPL-3.0](https://github.com/Reseam/reseam/blob/main/LICENSE)
 
 </details>
 
