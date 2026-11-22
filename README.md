@@ -305,6 +305,10 @@ And if you can't install Messenger back again because they check the sign, the a
 
 [Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-gnadgnaoh.apk)
 
+### [Hushfacebook:](https://github.com/SysAdminDoc/Hushfacebook)
+
+[Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-hushfacebook.apk)
+
 <details>
   <summary>Outdated patches</summary>
 
