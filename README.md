@@ -1093,6 +1093,15 @@ Require MicroG installed
 </details>
 
 <details>
+  <summary>Reseam</summary>
+
+[Patches](https://github.com/Reseam/patches) - [AGPL-3.0](https://github.com/Reseam/patches/blob/main/LICENSE)
+
+[CLI](https://github.com/Reseam/reseam) - [AGPL-3.0](https://github.com/Reseam/reseam/blob/main/LICENSE)
+
+</details>
+
+<details>
   <summary>crimera</summary>
 
 [Patches](https://github.com/crimera/piko) - [GPL-3.0](https://github.com/crimera/piko/blob/main/LICENSE)
