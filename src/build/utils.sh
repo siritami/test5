@@ -138,6 +138,7 @@ get_patches_key() {
 	excludePatches=""
 	includePatches=""
 	keepPrefix=""
+	exclusivePatches=""
 	excludeLinesFound=false
 	includeLinesFound=false
 
@@ -148,7 +149,7 @@ get_patches_key() {
 	sed -i 's/\r$//' "$patchDir/exclude-patches"
 	if [ -f "$patchDir/keep-prefix" ]; then
 		sed -i 's/\r$//' "$patchDir/keep-prefix"
-		keepPrefix=$(grep -m1 -v '^[[:space:]]*$' "$patchDir/keep-prefix")
+		keepPrefix=$(grep -m1 -v '^[[:space:]]*$' "$patchDir/keep-prefix" | sed 's/[[:space:]]*$//')
 	fi
 
 	while IFS= read -r line1 || [[ -n "$line1" ]]; do
@@ -171,9 +172,21 @@ get_patches_key() {
 		includePatches=""
 	fi
 
+	if [ -f "$patchDir/exclusive" ]; then
+		sed -i 's/\r$//' "$patchDir/exclusive"
+		case "$(grep -m1 -v '^[[:space:]]*$' "$patchDir/exclusive" | tr -d '[:space:]')" in
+			1|true|yes|on) exclusivePatches=" --exclusive" ;;
+		esac
+	fi
+	if [ -n "$exclusivePatches" ] && [ "$includeLinesFound" = false ]; then
+		yellow_log "[!] exclusive is on but include-patches is empty, ignoring: $1"
+		exclusivePatches=""
+	fi
+
 	export excludePatches
 	export includePatches
 	export keepPrefix
+	export exclusivePatches
 }
 
 #################################################
@@ -926,7 +939,11 @@ reseam_selection_args() {
 		' "$options_file" 2> /dev/null)
 	fi
 
-	[ -n "$exclusive" ] && args=" --preset none$enables$args" || args="$enables$args"
+	if [ -n "$exclusive" ] || [ -n "$exclusivePatches" ]; then
+		args=" --preset none$enables$args"
+	else
+		args="$enables$args"
+	fi
 	printf '%s' "$args"
 }
 
@@ -1052,7 +1069,7 @@ morphe_patch() {
 		auto_args=$(morphe_auto_exclude "$keepPrefix" "${bundles[@]}") || return 1
 	fi
 
-	eval java -jar morphe-desktop-*.jar patch$mpp_args$excludePatches$includePatches$auto_args --options-file ./src/options/$options_key.json$split_args --keystore=./src/keystore/morphe.keystore --force$continue_flag --out="$out" ./download/$app.apk
+	eval java -jar morphe-desktop-*.jar patch$mpp_args$excludePatches$includePatches$exclusivePatches$auto_args --options-file ./src/options/$options_key.json$split_args --keystore=./src/keystore/morphe.keystore --force$continue_flag --out="$out" ./download/$app.apk
 	return $?
 }
 
@@ -1082,6 +1099,7 @@ patch() {
 	unset excludePatches
 	unset includePatches
 	unset keepPrefix
+	unset exclusivePatches
 }
 
 patch_multi() {
@@ -1110,6 +1128,7 @@ patch_multi() {
 	unset excludePatches
 	unset includePatches
 	unset keepPrefix
+	unset exclusivePatches
 }
 
 lspatch() {
