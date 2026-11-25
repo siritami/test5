@@ -52,7 +52,9 @@ Download
 
 **Other apps (A–Z):** [Adguard](#adguard) · [Amazon Shopping](#amazon-shopping) · [Battery Guru](#battery-guru) · [Brave Browser](#brave-browser) · [CamScanner](#camscanner) · [Discord](#discord) · [Duolingo](#duolingo) · [EyeconCaller](#eyeconcaller) · [FX File Explorer](#fx-file-explorer) · [Google News](#google-news) · [Google Photos](#google-photos) · [Google Recorder](#google-recorder) · [Lightroom](#lightroom) · [Messenger](#messenger) · [MyFitnessPal](#myfitnesspal) · [Nova Launcher](#nova-launcher) · [Photomath](#photomath) · [Pinterest](#pinterest) · [Pixiv](#pixiv) · [Prime Video](#prime-video) · [Proton mail](#proton-mail) · [Proton VPN](#proton-vpn) · [Psiphon](#psiphon) · [RAR](#rar) · [Reddit](#reddit) · [Smart Launcher](#smart-launcher) · [Solid Explorer File Manager](#solid-explorer-file-manager) · [SoundCloud](#soundcloud) · [Strava](#strava) · [Tasker](#tasker) · [Telegram](#telegram) · [TeraBox](#terabox) · [TikTok](#tiktok) · [TikTok Asia](#tiktok-asia) · [Truecaller](#truecaller) · [Tumblr](#tumblr) · [Twitch](#twitch) · [Twitter](#twitter) · [Viber](#viber) · [Waze](#waze) · [Windscribe](#windscribe) · [WPS Office](#wps-office) · [Zalo](#zalo)
 
-Use the Add to Obtainium badge next to a download to import that APK variant into [Obtainium](https://github.com/ImranR98/Obtainium). Direct APK downloads remain available.
+Use the Add to Obtainium badge next to a download to import that APK variant into [Obtainium](https://github.com/ImranR98/Obtainium).
+
+Click to Universal, Arm64-v8a to download APK
 
 </details>
 
