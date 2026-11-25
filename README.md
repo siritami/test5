@@ -134,24 +134,54 @@ Use the Add to Obtainium badge next to a download to import that APK variant int
 
 **Please read [Instruction](https://github.com/kitadai31/revanced-patches-android6-7/tree/revanced-extended?tab=readme-ov-file#however-a-workaround-exists) before use**
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/youtube-revanced-extended-android-6-7.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ff8fc9779a01%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-revanced-extended-android-6-7.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2252869c3d5f8e%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-arm64-v8a-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-arm64-v8a-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-revanced-extended-android-6-7.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22aee6aa440bdf%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-armeabi-v7a-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-armeabi%5C%5C%5C%5C-v7a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-armeabi-v7a-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [x86](../../releases/download/all/youtube-x86-revanced-extended-android-6-7.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%224bfafa21b7e6%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-x86-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-x86%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-x86-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [x86_64](../../releases/download/all/youtube-x86_64-revanced-extended-android-6-7.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22798bc1178395%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-x86_64-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-x86_64%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-x86_64-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-revanced-extended-android-6-7.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ff8fc9779a01%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-arm64-v8a-revanced-extended-android-6-7.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2252869c3d5f8e%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-arm64-v8a-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-arm64-v8a-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-armeabi-v7a-revanced-extended-android-6-7.apk">Armeabi-v7a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22aee6aa440bdf%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-armeabi-v7a-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-armeabi%5C%5C%5C%5C-v7a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-armeabi-v7a-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-x86-revanced-extended-android-6-7.apk">x86</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%224bfafa21b7e6%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-x86-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-x86%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-x86-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-x86_64-revanced-extended-android-6-7.apk">x86_64</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22798bc1178395%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-x86_64-revanced-extended-android-6-7%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-x86_64%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-6%5C%5C%5C%5C-7%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-x86_64-revanced-extended-android-6-7%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 
 #### [Revanced Extended For Android 5:](https://github.com/d4n3436/revanced-patches-android5)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/youtube-revanced-extended-android-5.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2256fe2d2e3965%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-revanced-extended-android-5.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ed9b6fb38cfa%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-arm64-v8a-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-arm64-v8a-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-revanced-extended-android-5.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22f8168ddf19fb%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-armeabi-v7a-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-armeabi%5C%5C%5C%5C-v7a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-armeabi-v7a-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [x86](../../releases/download/all/youtube-x86-revanced-extended-android-5.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22b933236b5822%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-x86-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-x86%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-x86-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [x86_64](../../releases/download/all/youtube-x86_64-revanced-extended-android-5.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22a9fde383f15b%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-x86_64-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-x86_64%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-x86_64-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-revanced-extended-android-5.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2256fe2d2e3965%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-arm64-v8a-revanced-extended-android-5.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ed9b6fb38cfa%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-arm64-v8a-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-arm64-v8a-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-armeabi-v7a-revanced-extended-android-5.apk">Armeabi-v7a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22f8168ddf19fb%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-armeabi-v7a-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-armeabi%5C%5C%5C%5C-v7a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-armeabi-v7a-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-x86-revanced-extended-android-5.apk">x86</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22b933236b5822%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-x86-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-x86%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-x86-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/youtube-x86_64-revanced-extended-android-5.apk">x86_64</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22a9fde383f15b%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22youtube-x86_64-revanced-extended-android-5%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eyoutube%5C%5C%5C%5C-x86_64%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-android%5C%5C%5C%5C-5%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22youtube-x86_64-revanced-extended-android-5%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 </details>
 
@@ -215,24 +245,33 @@ This app might crash 2-3 times on the first startup. Don't worry - just try open
 
 And if you can't install Messenger back again because they check the sign, the app should need Messenger [from here](README.md#gnadgnaoh-1) too.
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-gnadgnaoh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%225e778b1aec13%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22facebook-arm64-v8a-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Efacebook%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22facebook-arm64-v8a-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/facebook-arm64-v8a-gnadgnaoh.apk">Arm64-v8a & Android 11+</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%225e778b1aec13%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22facebook-arm64-v8a-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Efacebook%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22facebook-arm64-v8a-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Hushfacebook:](https://github.com/SysAdminDoc/Hushfacebook)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-hushfacebook.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22098c4a133d9e%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22facebook-arm64-v8a-hushfacebook%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Efacebook%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-hushfacebook%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22facebook-arm64-v8a-hushfacebook%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/facebook-arm64-v8a-hushfacebook.apk">Arm64-v8a & Android 11+</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22098c4a133d9e%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22facebook-arm64-v8a-hushfacebook%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Efacebook%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-hushfacebook%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22facebook-arm64-v8a-hushfacebook%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22e6bfe5014690%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22facebook-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Efacebook%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22facebook-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/facebook-arm64-v8a-derevanced.apk">Arm64-v8a & Android 11+</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22e6bfe5014690%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22facebook-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Efacebook%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22facebook-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -254,15 +293,21 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a & Android 9+](../../releases/download/all/instagram-arm64-v8a-gnadgnaoh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2243552a6e9ce5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22instagram-arm64-v8a-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Einstagram%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22instagram-arm64-v8a-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/instagram-arm64-v8a-gnadgnaoh.apk">Arm64-v8a & Android 9+</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2243552a6e9ce5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22instagram-arm64-v8a-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Einstagram%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22instagram-arm64-v8a-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a & Android 9+](../../releases/download/all/instagram-arm64-v8a-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2216699e645405%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22instagram-arm64-v8a-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Einstagram%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22instagram-arm64-v8a-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/instagram-arm64-v8a-reseam.apk">Arm64-v8a & Android 9+</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2216699e645405%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22instagram-arm64-v8a-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Einstagram%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22instagram-arm64-v8a-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -275,9 +320,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [Revanced Experiments:](https://github.com/Aunali321/ReVancedExperiments)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/instagram-arm64-v8a-revanced-experiments.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%220967d51f489c%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22instagram-arm64-v8a-revanced-experiments%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Einstagram%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-experiments%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22instagram-arm64-v8a-revanced-experiments%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/instagram-arm64-v8a-revanced-experiments.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%220967d51f489c%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22instagram-arm64-v8a-revanced-experiments%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Einstagram%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-experiments%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22instagram-arm64-v8a-revanced-experiments%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 </details>
 
@@ -287,21 +335,30 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/threads-arm64-v8a-gnadgnaoh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%226e862330c3f1%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22threads-arm64-v8a-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ethreads%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22threads-arm64-v8a-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/threads-arm64-v8a-gnadgnaoh.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%226e862330c3f1%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22threads-arm64-v8a-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ethreads%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22threads-arm64-v8a-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/threads-arm64-v8a-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22c8b465ed9971%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22threads-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ethreads%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22threads-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/threads-arm64-v8a-derevanced.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22c8b465ed9971%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22threads-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ethreads%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22threads-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a & Android 9+](../../releases/download/all/threads-arm64-v8a-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22855157f08b85%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22threads-arm64-v8a-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ethreads%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22threads-arm64-v8a-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/threads-arm64-v8a-reseam.apk">Arm64-v8a & Android 9+</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22855157f08b85%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22threads-arm64-v8a-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ethreads%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22threads-arm64-v8a-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -320,15 +377,21 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/adguard-hoo-dles.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22be67f2dc65b6%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22adguard-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eadguard%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22adguard-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/adguard-hoo-dles.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22be67f2dc65b6%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22adguard-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eadguard%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22adguard-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/adguard-rushiranpise.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22475b51d8de0a%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22adguard-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eadguard%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22adguard-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/adguard-rushiranpise.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22475b51d8de0a%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22adguard-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eadguard%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22adguard-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -336,9 +399,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/amazon-shopping-rushiranpise.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22077e6146f144%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22amazon-shopping-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eamazon%5C%5C%5C%5C-shopping%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22amazon-shopping-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/amazon-shopping-rushiranpise.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22077e6146f144%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22amazon-shopping-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eamazon%5C%5C%5C%5C-shopping%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22amazon-shopping-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -346,9 +412,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/battery-guru-arandomhooman.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bf1b209eee15%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22battery-guru-arandomhooman%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ebattery%5C%5C%5C%5C-guru%5C%5C%5C%5C-arandomhooman%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22battery-guru-arandomhooman%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/battery-guru-arandomhooman.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bf1b209eee15%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22battery-guru-arandomhooman%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ebattery%5C%5C%5C%5C-guru%5C%5C%5C%5C-arandomhooman%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22battery-guru-arandomhooman%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -356,9 +425,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [bufferk:](https://github.com/bufferk/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/brave-browser-arm64-v8a-bufferk.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22d7afd97404d4%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22brave-browser-arm64-v8a-bufferk%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ebrave%5C%5C%5C%5C-browser%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-bufferk%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22brave-browser-arm64-v8a-bufferk%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/brave-browser-arm64-v8a-bufferk.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22d7afd97404d4%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22brave-browser-arm64-v8a-bufferk%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ebrave%5C%5C%5C%5C-browser%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-bufferk%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22brave-browser-arm64-v8a-bufferk%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -369,9 +441,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [Paresh Patches:](https://gitlab.com/Paresh-Maheshwari/paresh-patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/camscanner-hoo-dles.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223e870f8e430a%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22camscanner-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ecamscanner%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22camscanner-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/camscanner-hoo-dles.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223e870f8e430a%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22camscanner-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ecamscanner%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22camscanner-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 </details>
 
@@ -381,21 +456,30 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [Revenge:](https://github.com/revenge-mod/revenge-xposed)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/discord-revenge.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22402f0b95516e%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22discord-revenge%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ediscord%5C%5C%5C%5C-revenge%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22discord-revenge%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/discord-revenge.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22402f0b95516e%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22discord-revenge%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ediscord%5C%5C%5C%5C-revenge%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22discord-revenge%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/discord-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%225527814ddc45%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22discord-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ediscord%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22discord-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/discord-reseam.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%225527814ddc45%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22discord-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ediscord%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22discord-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Venus:](https://github.com/VenusIsJaded/Venus-Patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/discord-venus.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%227943a1b157be%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22discord-venus%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ediscord%5C%5C%5C%5C-venus%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22discord-venus%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/discord-venus.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%227943a1b157be%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22discord-venus%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ediscord%5C%5C%5C%5C-venus%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22discord-venus%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -403,9 +487,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/duolingo-hoo-dles.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22e9d8b5f924d5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22duolingo-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eduolingo%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22duolingo-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/duolingo-hoo-dles.apk ">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22e9d8b5f924d5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22duolingo-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eduolingo%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22duolingo-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -427,9 +514,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [Paresh Patches:](https://gitlab.com/Paresh-Maheshwari/paresh-patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/eyecon-caller-arm64-v8a-paresh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%220fcd46aa5956%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22eyecon-caller-arm64-v8a-paresh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eeyecon%5C%5C%5C%5C-caller%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-paresh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22eyecon-caller-arm64-v8a-paresh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/eyecon-caller-arm64-v8a-paresh.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%220fcd46aa5956%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22eyecon-caller-arm64-v8a-paresh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eeyecon%5C%5C%5C%5C-caller%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-paresh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22eyecon-caller-arm64-v8a-paresh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 </details>
 
@@ -439,9 +529,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [Dropped Patches by indrastorms:](https://github.com/indrastorms/Dropped-Patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/fx-file-explorer-indrastorms.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2251496ca46bad%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22fx-file-explorer-indrastorms%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Efx%5C%5C%5C%5C-file%5C%5C%5C%5C-explorer%5C%5C%5C%5C-indrastorms%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22fx-file-explorer-indrastorms%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/fx-file-explorer-indrastorms.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2251496ca46bad%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22fx-file-explorer-indrastorms%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Efx%5C%5C%5C%5C-file%5C%5C%5C%5C-explorer%5C%5C%5C%5C-indrastorms%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22fx-file-explorer-indrastorms%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -449,15 +542,21 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/googlenews-arm64-v8a-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%226e585299c655%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22googlenews-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Egooglenews%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22googlenews-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/googlenews-arm64-v8a-derevanced.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%226e585299c655%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22googlenews-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Egooglenews%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22googlenews-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [docbt:](https://github.com/docbt/patched-up)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/googlenews-docbt.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2234e801ad26bd%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22googlenews-docbt%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Egooglenews%5C%5C%5C%5C-docbt%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22googlenews-docbt%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/googlenews-docbt.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2234e801ad26bd%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22googlenews-docbt%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Egooglenews%5C%5C%5C%5C-docbt%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22googlenews-docbt%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -476,9 +575,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/gg-photos-arm64-v8a-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223632d96c317f%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22gg-photos-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Egg%5C%5C%5C%5C-photos%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22gg-photos-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/gg-photos-arm64-v8a-derevanced.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223632d96c317f%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22gg-photos-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Egg%5C%5C%5C%5C-photos%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22gg-photos-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -495,9 +597,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/google-recorder-derevanced.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bbe959ccb6b7%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22google-recorder-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Egoogle%5C%5C%5C%5C-recorder%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22google-recorder-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/google-recorder-derevanced.apk ">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bbe959ccb6b7%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22google-recorder-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Egoogle%5C%5C%5C%5C-recorder%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22google-recorder-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -520,15 +625,21 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a & Android 9+](../../releases/download/all/messenger-arm64-v8a-gnadgnaoh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22b293dff5d495%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22messenger-arm64-v8a-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Emessenger%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22messenger-arm64-v8a-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/messenger-arm64-v8a-gnadgnaoh.apk">Arm64-v8a & Android 9+</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22b293dff5d495%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22messenger-arm64-v8a-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Emessenger%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22messenger-arm64-v8a-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/messenger-arm64-v8a-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2270352858b7a2%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22messenger-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Emessenger%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22messenger-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/messenger-arm64-v8a-derevanced.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2270352858b7a2%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22messenger-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Emessenger%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22messenger-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -562,9 +673,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [Dropped Patches by indrastorms:](https://github.com/indrastorms/Dropped-Patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/nova-launcher-indrastorms.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%226f4ed3d73ba5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22nova-launcher-indrastorms%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Enova%5C%5C%5C%5C-launcher%5C%5C%5C%5C-indrastorms%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22nova-launcher-indrastorms%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/nova-launcher-indrastorms.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%226f4ed3d73ba5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22nova-launcher-indrastorms%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Enova%5C%5C%5C%5C-launcher%5C%5C%5C%5C-indrastorms%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22nova-launcher-indrastorms%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -572,9 +686,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/photomath-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%229ccee6553460%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22photomath-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ephotomath%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22photomath-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/photomath-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%229ccee6553460%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22photomath-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ephotomath%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22photomath-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -593,15 +710,21 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [browzomje:](https://github.com/browzomje/browzomje-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/pinterest-browzomje.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ae764c66eb37%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22pinterest-browzomje%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Epinterest%5C%5C%5C%5C-browzomje%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22pinterest-browzomje%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/pinterest-browzomje.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ae764c66eb37%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22pinterest-browzomje%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Epinterest%5C%5C%5C%5C-browzomje%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22pinterest-browzomje%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/pinterest-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%220ac3b876d8bd%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22pinterest-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Epinterest%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22pinterest-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/pinterest-reseam.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%220ac3b876d8bd%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22pinterest-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Epinterest%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22pinterest-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -609,9 +732,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/pixiv-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22473de51a9fbc%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22pixiv-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Epixiv%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22pixiv-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/pixiv-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22473de51a9fbc%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22pixiv-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Epixiv%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22pixiv-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -630,9 +756,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/prime-video-arm64-v8a-hoo-dles.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22b5479e117334%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22prime-video-arm64-v8a-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eprime%5C%5C%5C%5C-video%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22prime-video-arm64-v8a-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/prime-video-arm64-v8a-hoo-dles.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22b5479e117334%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22prime-video-arm64-v8a-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eprime%5C%5C%5C%5C-video%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22prime-video-arm64-v8a-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -640,9 +769,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/protonmail-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%228e21c571a807%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22protonmail-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eprotonmail%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22protonmail-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/protonmail-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%228e21c571a807%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22protonmail-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eprotonmail%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22protonmail-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -661,15 +793,21 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/protonvpn-hoo-dles.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%222bc497a197d8%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22protonvpn-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eprotonvpn%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22protonvpn-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/protonvpn-hoo-dles.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%222bc497a197d8%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22protonvpn-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eprotonvpn%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22protonvpn-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/protonvpn-rushiranpise.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22db5065247e56%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22protonvpn-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eprotonvpn%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22protonvpn-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/protonvpn-rushiranpise.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22db5065247e56%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22protonvpn-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eprotonvpn%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22protonvpn-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -688,9 +826,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/psiphon-rushiranpise.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22121ac5a2e84e%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22psiphon-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Epsiphon%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22psiphon-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/psiphon-rushiranpise.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22121ac5a2e84e%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22psiphon-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Epsiphon%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22psiphon-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -698,9 +839,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/rar-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2279c12319184d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22rar-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Erar%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22rar-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/rar-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2279c12319184d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22rar-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Erar%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22rar-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -726,10 +870,16 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/reddit-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%226cba2d2b3f5d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22reddit-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ereddit%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22reddit-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%227b4864f3f4ac%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22reddit-arm64-v8a-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ereddit%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22reddit-arm64-v8a-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/reddit-reseam.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%226cba2d2b3f5d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22reddit-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ereddit%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22reddit-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/reddit-arm64-v8a-reseam.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%227b4864f3f4ac%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22reddit-arm64-v8a-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ereddit%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22reddit-arm64-v8a-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -750,10 +900,16 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [Revanced Extended Arsclib:](https://github.com/inotia00/revanced-patches-arsclib/)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/reddit-revanced-extended-arsclib.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22da5c3a76dfed%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22reddit-revanced-extended-arsclib%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ereddit%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-arsclib%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22reddit-revanced-extended-arsclib%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-revanced-extended-arsclib.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ee46d745f5c1%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22reddit-arm64-v8a-revanced-extended-arsclib%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ereddit%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-arsclib%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22reddit-arm64-v8a-revanced-extended-arsclib%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/reddit-revanced-extended-arsclib.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22da5c3a76dfed%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22reddit-revanced-extended-arsclib%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ereddit%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-arsclib%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22reddit-revanced-extended-arsclib%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/reddit-arm64-v8a-revanced-extended-arsclib.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ee46d745f5c1%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22reddit-arm64-v8a-revanced-extended-arsclib%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ereddit%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-revanced%5C%5C%5C%5C-extended%5C%5C%5C%5C-arsclib%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22reddit-arm64-v8a-revanced-extended-arsclib%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 </details>
 
@@ -763,9 +919,12 @@ And if you can't install Messenger back again because they check the sign, the a
 
 #### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/smart-launcher-hoo-dles.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%222128d26f1fb3%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22smart-launcher-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esmart%5C%5C%5C%5C-launcher%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22smart-launcher-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/smart-launcher-hoo-dles.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%222128d26f1fb3%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22smart-launcher-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esmart%5C%5C%5C%5C-launcher%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22smart-launcher-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -775,18 +934,24 @@ And if you can't install Messenger back again because they check the sign, the a
 
 Requires MicroG to be installed
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/solid-explorer-hoo-dles.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2214d875e9bc07%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22solid-explorer-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esolid%5C%5C%5C%5C-explorer%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22solid-explorer-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/solid-explorer-hoo-dles.apk ">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2214d875e9bc07%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22solid-explorer-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esolid%5C%5C%5C%5C-explorer%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22solid-explorer-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
 
 #### [scrazzz](https://github.com/scrazzz/my-revanced-patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/solid-explorer-arm64-v8a-scrazzz.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2238ed30299b2b%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22solid-explorer-arm64-v8a-scrazzz%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esolid%5C%5C%5C%5C-explorer%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-scrazzz%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22solid-explorer-arm64-v8a-scrazzz%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/solid-explorer-arm64-v8a-scrazzz.apk ">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2238ed30299b2b%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22solid-explorer-arm64-v8a-scrazzz%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esolid%5C%5C%5C%5C-explorer%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-scrazzz%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22solid-explorer-arm64-v8a-scrazzz%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 </details>
 
@@ -796,16 +961,25 @@ Requires MicroG to be installed
 
 #### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/soundcloud-hoo-dles.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%221bcc27a0cf82%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22soundcloud-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esoundcloud%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22soundcloud-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/soundcloud-hoo-dles.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%221bcc27a0cf82%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22soundcloud-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esoundcloud%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22soundcloud-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/soundcloud-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2296fe1fae5457%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22soundcloud-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esoundcloud%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22soundcloud-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Arm64-v8a](../../releases/download/all/soundcloud-arm64-v8a-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2294c50f73f0fb%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22soundcloud-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esoundcloud%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22soundcloud-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/soundcloud-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2296fe1fae5457%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22soundcloud-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esoundcloud%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22soundcloud-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/soundcloud-arm64-v8a-derevanced.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2294c50f73f0fb%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22soundcloud-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Esoundcloud%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22soundcloud-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -840,9 +1014,12 @@ Requires MicroG to be installed
 
 #### [Dropped Patches by indrastorms:](https://github.com/indrastorms/Dropped-Patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tasker-indrastorms.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2200e2914ac065%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tasker-indrastorms%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etasker%5C%5C%5C%5C-indrastorms%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tasker-indrastorms%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tasker-indrastorms.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2200e2914ac065%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tasker-indrastorms%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etasker%5C%5C%5C%5C-indrastorms%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tasker-indrastorms%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -850,9 +1027,12 @@ Requires MicroG to be installed
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/telegram-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2237959acde754%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22telegram-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etelegram%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22telegram-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/telegram-reseam.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2237959acde754%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22telegram-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etelegram%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22telegram-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -861,24 +1041,33 @@ Requires MicroG to be installed
 
 Web version:
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/telegram-web-version-paresh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22c357a30d1c11%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22telegram-web-version-paresh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etelegram%5C%5C%5C%5C-web%5C%5C%5C%5C-version%5C%5C%5C%5C-paresh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22telegram-web-version-paresh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/telegram-web-version-paresh.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22c357a30d1c11%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22telegram-web-version-paresh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etelegram%5C%5C%5C%5C-web%5C%5C%5C%5C-version%5C%5C%5C%5C-paresh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22telegram-web-version-paresh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 
 #### [Revanced Experiments:](https://github.com/Aunali321/ReVancedExperiments)
 
 CH play version:
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/telegram-revanced-experiments.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22381f9469da04%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22telegram-revanced-experiments%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etelegram%5C%5C%5C%5C-revanced%5C%5C%5C%5C-experiments%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22telegram-revanced-experiments%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/telegram-revanced-experiments.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22381f9469da04%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22telegram-revanced-experiments%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etelegram%5C%5C%5C%5C-revanced%5C%5C%5C%5C-experiments%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22telegram-revanced-experiments%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 Web version:
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/telegram-web-version-revanced-experiments.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22efdebe82e94d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22telegram-web-version-revanced-experiments%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etelegram%5C%5C%5C%5C-web%5C%5C%5C%5C-version%5C%5C%5C%5C-revanced%5C%5C%5C%5C-experiments%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22telegram-web-version-revanced-experiments%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/telegram-web-version-revanced-experiments.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22efdebe82e94d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22telegram-web-version-revanced-experiments%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etelegram%5C%5C%5C%5C-web%5C%5C%5C%5C-version%5C%5C%5C%5C-revanced%5C%5C%5C%5C-experiments%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22telegram-web-version-revanced-experiments%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 </details>
 
@@ -888,9 +1077,12 @@ Web version:
 
 #### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/terabox-rushiranpise.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bd1f449eaff8%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22terabox-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eterabox%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22terabox-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/terabox-rushiranpise.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bd1f449eaff8%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22terabox-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eterabox%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22terabox-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -898,27 +1090,39 @@ Web version:
 
 #### [gnadgnaoh:](https://github.com/gnadgnaoh/SexAlloy/)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tiktok-gnadgnaoh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22c11298866887%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tiktok-gnadgnaoh.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22c11298866887%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [icysymmetra:](https://github.com/icysymmetra/tiktok-patches-for-morphe)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tiktok-icysymmetra.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%227eccbdaf5afe%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-icysymmetra%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-icysymmetra%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-icysymmetra%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tiktok-icysymmetra.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%227eccbdaf5afe%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-icysymmetra%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-icysymmetra%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-icysymmetra%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tiktok-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22028dbe1558ec%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tiktok-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22028dbe1558ec%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tiktok-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22c1f073c23cce%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tiktok-reseam.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22c1f073c23cce%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -937,15 +1141,21 @@ Web version:
 
 #### [gnadgnaoh:](https://github.com/gnadgnaoh/SexAlloy/)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tiktok-asian-gnadgnaoh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2264f765d25bf5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-asian-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-asian%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-asian-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tiktok-asian-gnadgnaoh.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2264f765d25bf5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-asian-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-asian%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-asian-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tiktok-asia-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bab9834377b4%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-asia-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-asia%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-asia-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tiktok-asia-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bab9834377b4%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tiktok-asia-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etiktok%5C%5C%5C%5C-asia%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tiktok-asia-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -953,18 +1163,24 @@ Web version:
 
 #### [Bufferk:](https://github.com/bufferk/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/truecaller-arm64-v8a-bufferk.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22d6d44a42c44d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22truecaller-arm64-v8a-bufferk%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etruecaller%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-bufferk%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22truecaller-arm64-v8a-bufferk%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/truecaller-arm64-v8a-bufferk.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22d6d44a42c44d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22truecaller-arm64-v8a-bufferk%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etruecaller%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-bufferk%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22truecaller-arm64-v8a-bufferk%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
 
 #### [Paresh Patches:](https://gitlab.com/Paresh-Maheshwari/paresh-patches)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/truecaller-arm64-v8a-paresh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%225ec0955176e3%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22truecaller-arm64-v8a-paresh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etruecaller%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-paresh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22truecaller-arm64-v8a-paresh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/truecaller-arm64-v8a-paresh.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%225ec0955176e3%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22truecaller-arm64-v8a-paresh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etruecaller%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-paresh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22truecaller-arm64-v8a-paresh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 </details>
 
@@ -974,16 +1190,25 @@ Web version:
 
 #### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tumblr-arandomhooman.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2277d9eb67659c%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tumblr-arandomhooman%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etumblr%5C%5C%5C%5C-arandomhooman%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tumblr-arandomhooman%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tumblr-arandomhooman.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%2277d9eb67659c%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tumblr-arandomhooman%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etumblr%5C%5C%5C%5C-arandomhooman%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tumblr-arandomhooman%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/tumblr-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22fa8fdcd2837f%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tumblr-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etumblr%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tumblr-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Arm64-v8a](../../releases/download/all/tumblr-arm64-v8a-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ac5e3b95490c%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tumblr-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etumblr%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tumblr-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/tumblr-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22fa8fdcd2837f%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tumblr-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etumblr%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tumblr-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/tumblr-arm64-v8a-derevanced.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ac5e3b95490c%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22tumblr-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etumblr%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22tumblr-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -1003,23 +1228,38 @@ Web version:
 
 #### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/twitch-arandomhooman.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22a0dea1e39386%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-arandomhooman%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-arandomhooman%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-arandomhooman%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/twitch-arandomhooman.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22a0dea1e39386%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-arandomhooman%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-arandomhooman%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-arandomhooman%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/twitch-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223e20eda78fb1%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22cdfdf6a7c1f9%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/twitch-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223e20eda78fb1%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/twitch-arm64-v8a-derevanced.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22cdfdf6a7c1f9%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-arm64-v8a-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-arm64-v8a-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/twitch-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22f8f4b96d90c5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
-| [Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223538b457e34d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-arm64-v8a-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-arm64-v8a-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/twitch-reseam.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22f8f4b96d90c5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+  <tr>
+    <td><a href="../../releases/download/all/twitch-arm64-v8a-reseam.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223538b457e34d%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitch-arm64-v8a-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitch%5C%5C%5C%5C-arm64%5C%5C%5C%5C-v8a%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitch-arm64-v8a-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -1047,15 +1287,21 @@ Web version:
 
 #### [Piko NewX:](https://github.com/crimera/piko-newx)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/twitter-piko-newx.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22f6723e58736c%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitter-piko-newx%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitter%5C%5C%5C%5C-piko%5C%5C%5C%5C-newx%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitter-piko-newx%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/twitter-piko-newx.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22f6723e58736c%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitter-piko-newx%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitter%5C%5C%5C%5C-piko%5C%5C%5C%5C-newx%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitter-piko-newx%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 #### [Reseam:](https://github.com/Reseam/patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/twitter-reseam.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223c3f1c6b1ff1%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitter-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitter%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitter-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/twitter-reseam.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223c3f1c6b1ff1%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22twitter-reseam%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Etwitter%5C%5C%5C%5C-reseam%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22twitter-reseam%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -1063,9 +1309,12 @@ Web version:
 
 #### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/viber-derevanced.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223acd3780c7a5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22viber-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eviber%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22viber-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/viber-derevanced.apk">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%223acd3780c7a5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22viber-derevanced%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Eviber%5C%5C%5C%5C-derevanced%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22viber-derevanced%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Outdated patches</summary>
@@ -1084,9 +1333,12 @@ Web version:
 
 #### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/waze-rushiranpise.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%229afcb2dcb86a%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22waze-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ewaze%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22waze-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/waze-rushiranpise.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%229afcb2dcb86a%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22waze-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ewaze%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22waze-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -1094,9 +1346,12 @@ Web version:
 
 #### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/windscribe-rushiranpise.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bcb3dbad0c6a%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22windscribe-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ewindscribe%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22windscribe-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/windscribe-rushiranpise.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22bcb3dbad0c6a%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22windscribe-rushiranpise%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ewindscribe%5C%5C%5C%5C-rushiranpise%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22windscribe-rushiranpise%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -1104,9 +1359,12 @@ Web version:
 
 #### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-|  |  |
-| --- | --- |
-| [Universal](../../releases/download/all/wps-office-hoo-dles.apk ) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%222453d677e5ee%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22wps-office-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ewps%5C%5C%5C%5C-office%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22wps-office-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/wps-office-hoo-dles.apk ">Universal</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%222453d677e5ee%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22wps-office-hoo-dles%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ewps%5C%5C%5C%5C-office%5C%5C%5C%5C-hoo%5C%5C%5C%5C-dles%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22wps-office-hoo-dles%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -1114,9 +1372,12 @@ Web version:
 
 #### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
-|  |  |
-| --- | --- |
-| [Arm64-v8a](../../releases/download/all/zalo-gnadgnaoh.apk) | [![Add to Obtainium](https://img.shields.io/badge/Add_to-Obtainium-2D7D46)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%228e391c31b4b5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22zalo-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ezalo%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22zalo-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D) |
+<table>
+  <tr>
+    <td><a href="../../releases/download/all/zalo-gnadgnaoh.apk">Arm64-v8a</a></td>
+    <td><a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%228e391c31b4b5%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FFiorenMas%2FRevanced-And-Revanced-Extended-Non-Root%22%2C%22author%22%3A%22FiorenMas%22%2C%22name%22%3A%22zalo-gnadgnaoh%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22%5Ezalo%5C%5C%5C%5C-gnadgnaoh%5C%5C%5C%5C.apk%24%5C%22%2C%5C%22autoApkFilterByArch%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Atrue%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22appName%5C%22%3A%5C%22zalo-gnadgnaoh%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%2C%22allowIdChange%22%3Atrue%7D"><img src="https://img.shields.io/badge/Add_to-Obtainium-2D7D46" alt="Add to Obtainium"></a></td>
+  </tr>
+</table>
 
 ### ⚠️ Libraries and resources used in this repository:
 
