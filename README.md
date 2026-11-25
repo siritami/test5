@@ -54,7 +54,7 @@ Download
 
 Use the Add to Obtainium badge next to a download to import that APK variant into [Obtainium](https://github.com/ImranR98/Obtainium).
 
-Click to Universal, Arm64-v8a to download APK
+Click to Universal, Arm64-v8a... to download APK
 
 </details>
 
